@@ -1,0 +1,3014 @@
+### session_id: C001_001 ###
+session_id: C001_001 speaker_id: C001_000
+session_id: C001_001 speaker_id: C001_001
+session_id: C001_001 speaker_id: C001_002
+session_id: C001_001 speaker_id: C001_003
+session_id: C001_001 speaker_id: C001_004
+session_id: C001_001 speaker_id: C001_010
+wav file not found: C001_010
+### session_id: C001_002 ###
+session_id: C001_002 speaker_id: C001_000
+session_id: C001_002 speaker_id: C001_002
+### session_id: C001_003 ###
+session_id: C001_003 speaker_id: C001_000
+session_id: C001_003 speaker_id: C001_001
+### session_id: C001_004 ###
+session_id: C001_004 speaker_id: C001_000
+session_id: C001_004 speaker_id: C001_005
+session_id: C001_004 speaker_id: C001_011
+wav file not found: C001_011
+### session_id: C001_005 ###
+session_id: C001_005 speaker_id: C001_000
+session_id: C001_005 speaker_id: C001_007
+### session_id: C001_006 ###
+session_id: C001_006 speaker_id: C001_000
+session_id: C001_006 speaker_id: C001_007
+### session_id: C001_007 ###
+session_id: C001_007 speaker_id: C001_000
+session_id: C001_007 speaker_id: C001_006
+session_id: C001_007 speaker_id: C001_007
+### session_id: C001_012 ###
+session_id: C001_012 speaker_id: C001_000
+session_id: C001_012 speaker_id: C001_005
+### session_id: C001_013 ###
+session_id: C001_013 speaker_id: C001_000
+session_id: C001_013 speaker_id: C001_005
+### session_id: C002_003 ###
+session_id: C002_003 speaker_id: C002_000
+session_id: C002_003 speaker_id: C002_001
+### session_id: C002_004 ###
+session_id: C002_004 speaker_id: C002_000
+session_id: C002_004 speaker_id: C002_002
+### session_id: C002_005 ###
+session_id: C002_005 speaker_id: C002_000
+session_id: C002_005 speaker_id: C002_001
+### session_id: C002_006a ###
+session_id: C002_006a speaker_id: C002_000
+session_id: C002_006a speaker_id: C002_003
+session_id: C002_006a speaker_id: C002_004
+session_id: C002_006a speaker_id: C002_005
+wav file not found: C002_005
+### session_id: C002_006b ###
+session_id: C002_006b speaker_id: C002_000
+session_id: C002_006b speaker_id: C002_003
+session_id: C002_006b speaker_id: C002_004
+session_id: C002_006b speaker_id: C002_005
+wav file not found: C002_005
+### session_id: C002_006c ###
+session_id: C002_006c speaker_id: C002_000
+session_id: C002_006c speaker_id: C002_003
+session_id: C002_006c speaker_id: C002_004
+session_id: C002_006c speaker_id: C002_005
+wav file not found: C002_005
+### session_id: C002_007 ###
+session_id: C002_007 speaker_id: C002_000
+session_id: C002_007 speaker_id: C002_001
+session_id: C002_007 speaker_id: C002_002
+### session_id: C002_008 ###
+session_id: C002_008 speaker_id: C002_000
+session_id: C002_008 speaker_id: C002_002
+session_id: C002_008 speaker_id: C002_012
+wav file not found: C002_012
+### session_id: C002_013a ###
+session_id: C002_013a speaker_id: C002_000
+session_id: C002_013a speaker_id: C002_006
+### session_id: C002_013b ###
+session_id: C002_013b speaker_id: C002_000
+session_id: C002_013b speaker_id: C002_006
+### session_id: C002_014a ###
+session_id: C002_014a speaker_id: C002_000
+wav file not found: C002_000
+session_id: C002_014a speaker_id: C002_007
+wav file not found: C002_007
+session_id: C002_014a speaker_id: C002_008
+### session_id: C002_014b ###
+session_id: C002_014b speaker_id: C002_000
+wav file not found: C002_000
+session_id: C002_014b speaker_id: C002_007
+wav file not found: C002_007
+session_id: C002_014b speaker_id: C002_008
+### session_id: C002_015 ###
+session_id: C002_015 speaker_id: C002_000
+session_id: C002_015 speaker_id: C002_009
+session_id: C002_015 speaker_id: C002_010
+### session_id: C002_016 ###
+session_id: C002_016 speaker_id: C002_000
+session_id: C002_016 speaker_id: C002_011
+session_id: C002_016 speaker_id: C002_013
+wav file not found: C002_013
+### session_id: K001_003a ###
+session_id: K001_003a speaker_id: K001_000
+session_id: K001_003a speaker_id: K001_003
+session_id: K001_003a speaker_id: K001_004
+### session_id: K001_003b ###
+session_id: K001_003b speaker_id: K001_000
+session_id: K001_003b speaker_id: K001_003
+session_id: K001_003b speaker_id: K001_004
+### session_id: K001_004 ###
+session_id: K001_004 speaker_id: K001_000
+session_id: K001_004 speaker_id: K001_005
+### session_id: K001_008 ###
+session_id: K001_008 speaker_id: K001_000
+session_id: K001_008 speaker_id: K001_009
+### session_id: K001_009 ###
+session_id: K001_009 speaker_id: K001_000
+session_id: K001_009 speaker_id: K001_010
+### session_id: K001_010 ###
+session_id: K001_010 speaker_id: K001_000
+session_id: K001_010 speaker_id: K001_011
+### session_id: K001_011 ###
+session_id: K001_011 speaker_id: K001_000
+session_id: K001_011 speaker_id: K001_013
+### session_id: K001_013 ###
+session_id: K001_013 speaker_id: K001_000
+session_id: K001_013 speaker_id: K001_004
+session_id: K001_013 speaker_id: K001_012
+session_id: K001_013 speaker_id: K001_025
+wav file not found: K001_025
+### session_id: K001_014 ###
+session_id: K001_014 speaker_id: K001_000
+session_id: K001_014 speaker_id: K001_013
+session_id: K001_014 speaker_id: K001_026
+wav file not found: K001_026
+### session_id: K001_016 ###
+session_id: K001_016 speaker_id: K001_000
+session_id: K001_016 speaker_id: K001_014
+session_id: K001_016 speaker_id: K001_015
+session_id: K001_016 speaker_id: K001_016
+session_id: K001_016 speaker_id: K001_017
+wav file not found: K001_017
+### session_id: K001_017 ###
+session_id: K001_017 speaker_id: K001_000
+session_id: K001_017 speaker_id: K001_018
+session_id: K001_017 speaker_id: K001_027
+wav file not found: K001_027
+### session_id: K001_019 ###
+session_id: K001_019 speaker_id: K001_000
+session_id: K001_019 speaker_id: K001_021
+### session_id: K002_003a ###
+session_id: K002_003a speaker_id: K002_000
+session_id: K002_003a speaker_id: K002_004
+### session_id: K002_003b ###
+session_id: K002_003b speaker_id: K002_000
+session_id: K002_003b speaker_id: K002_002
+wav file not found: K002_002
+session_id: K002_003b speaker_id: K002_003
+wav file not found: K002_003
+session_id: K002_003b speaker_id: K002_004
+### session_id: K002_004 ###
+session_id: K002_004 speaker_id: K002_000
+session_id: K002_004 speaker_id: K002_005
+session_id: K002_004 speaker_id: K002_019
+wav file not found: K002_019
+session_id: K002_004 speaker_id: K002_021
+wav file not found: K002_021
+### session_id: K002_007 ###
+session_id: K002_007 speaker_id: K002_000
+session_id: K002_007 speaker_id: K002_003
+### session_id: K002_010 ###
+session_id: K002_010 speaker_id: K002_000
+session_id: K002_010 speaker_id: K002_009
+session_id: K002_010 speaker_id: K002_017
+wav file not found: K002_017
+### session_id: K002_012 ###
+session_id: K002_012 speaker_id: K002_000
+session_id: K002_012 speaker_id: K002_008
+wav file not found: K002_008
+session_id: K002_012 speaker_id: K002_011
+### session_id: K002_014 ###
+session_id: K002_014 speaker_id: K002_000
+session_id: K002_014 speaker_id: K002_008
+session_id: K002_014 speaker_id: K002_015
+session_id: K002_014 speaker_id: K002_020
+wav file not found: K002_020
+### session_id: K002_015 ###
+session_id: K002_015 speaker_id: K002_000
+session_id: K002_015 speaker_id: K002_007
+wav file not found: K002_007
+session_id: K002_015 speaker_id: K002_008
+session_id: K002_015 speaker_id: K002_015
+### session_id: K002_016 ###
+session_id: K002_016 speaker_id: K002_000
+session_id: K002_016 speaker_id: K002_007
+### session_id: K002_017 ###
+session_id: K002_017 speaker_id: K002_000
+session_id: K002_017 speaker_id: K002_003
+session_id: K002_017 speaker_id: K002_008
+### session_id: K002_018 ###
+session_id: K002_018 speaker_id: K002_000
+session_id: K002_018 speaker_id: K002_006
+session_id: K002_018 speaker_id: K002_007
+session_id: K002_018 speaker_id: K002_016
+session_id: K002_018 speaker_id: K002_018
+wav file not found: K002_018
+### session_id: K003_002a ###
+session_id: K003_002a speaker_id: K003_000
+session_id: K003_002a speaker_id: K003_001
+### session_id: K003_002b ###
+session_id: K003_002b speaker_id: K003_000
+session_id: K003_002b speaker_id: K003_001
+### session_id: K003_002c ###
+session_id: K003_002c speaker_id: K003_000
+session_id: K003_002c speaker_id: K003_001
+### session_id: K003_002d ###
+session_id: K003_002d speaker_id: K003_000
+session_id: K003_002d speaker_id: K003_001
+### session_id: K003_003 ###
+session_id: K003_003 speaker_id: K003_000
+session_id: K003_003 speaker_id: K003_003
+### session_id: K003_005 ###
+session_id: K003_005 speaker_id: K003_000
+session_id: K003_005 speaker_id: K003_004
+### session_id: K003_006 ###
+session_id: K003_006 speaker_id: K003_000
+session_id: K003_006 speaker_id: K003_005
+### session_id: K003_008 ###
+session_id: K003_008 speaker_id: K003_000
+session_id: K003_008 speaker_id: K003_006
+### session_id: K003_012a ###
+session_id: K003_012a speaker_id: K003_000
+session_id: K003_012a speaker_id: K003_008
+session_id: K003_012a speaker_id: K003_011
+wav file not found: K003_011
+### session_id: K003_012b ###
+session_id: K003_012b speaker_id: K003_000
+session_id: K003_012b speaker_id: K003_008
+session_id: K003_012b speaker_id: K003_012
+wav file not found: K003_012
+### session_id: K003_013a ###
+session_id: K003_013a speaker_id: K003_000
+session_id: K003_013a speaker_id: K003_003
+session_id: K003_013a speaker_id: K003_007
+### session_id: K003_013b ###
+session_id: K003_013b speaker_id: K003_000
+session_id: K003_013b speaker_id: K003_003
+session_id: K003_013b speaker_id: K003_007
+### session_id: K003_014 ###
+session_id: K003_014 speaker_id: K003_000
+session_id: K003_014 speaker_id: K003_003
+session_id: K003_014 speaker_id: K003_007
+### session_id: K003_017 ###
+session_id: K003_017 speaker_id: K003_000
+session_id: K003_017 speaker_id: K003_005
+### session_id: K004_001 ###
+session_id: K004_001 speaker_id: K004_000
+session_id: K004_001 speaker_id: K004_005
+### session_id: K004_005 ###
+session_id: K004_005 speaker_id: K004_000
+wav file not found: K004_000
+session_id: K004_005 speaker_id: K004_006
+session_id: K004_005 speaker_id: K004_024
+wav file not found: K004_024
+session_id: K004_005 speaker_id: K004_025
+wav file not found: K004_025
+### session_id: K004_007 ###
+session_id: K004_007 speaker_id: K004_000
+session_id: K004_007 speaker_id: K004_003
+### session_id: K004_008 ###
+session_id: K004_008 speaker_id: K004_000
+session_id: K004_008 speaker_id: K004_007
+session_id: K004_008 speaker_id: K004_008
+### session_id: K004_010 ###
+session_id: K004_010 speaker_id: K004_000
+session_id: K004_010 speaker_id: K004_009
+session_id: K004_010 speaker_id: K004_010
+### session_id: K004_011 ###
+session_id: K004_011 speaker_id: K004_000
+session_id: K004_011 speaker_id: K004_001
+### session_id: K004_012 ###
+session_id: K004_012 speaker_id: K004_000
+session_id: K004_012 speaker_id: K004_011
+session_id: K004_012 speaker_id: K004_012
+session_id: K004_012 speaker_id: K004_013
+session_id: K004_012 speaker_id: K004_014
+### session_id: K004_013 ###
+session_id: K004_013 speaker_id: K004_000
+session_id: K004_013 speaker_id: K004_015
+wav file not found: K004_015
+session_id: K004_013 speaker_id: K004_016
+session_id: K004_013 speaker_id: K004_017
+session_id: K004_013 speaker_id: K004_018
+### session_id: K004_015 ###
+session_id: K004_015 speaker_id: K004_000
+session_id: K004_015 speaker_id: K004_020
+session_id: K004_015 speaker_id: K004_021
+wav file not found: K004_021
+session_id: K004_015 speaker_id: K004_022
+wav file not found: K004_022
+session_id: K004_015 speaker_id: K004_026
+wav file not found: K004_026
+### session_id: K004_017 ###
+session_id: K004_017 speaker_id: K004_000
+session_id: K004_017 speaker_id: K004_001
+session_id: K004_017 speaker_id: K004_002
+session_id: K004_017 speaker_id: K004_003
+### session_id: K004_020 ###
+session_id: K004_020 speaker_id: K004_000
+session_id: K004_020 speaker_id: K004_001
+session_id: K004_020 speaker_id: K004_002
+session_id: K004_020 speaker_id: K004_003
+### session_id: K004_022 ###
+session_id: K004_022 speaker_id: K004_000
+session_id: K004_022 speaker_id: K004_003
+session_id: K004_022 speaker_id: K004_004
+session_id: K004_022 speaker_id: K004_023
+### session_id: K005_001 ###
+session_id: K005_001 speaker_id: K005_000
+session_id: K005_001 speaker_id: K005_001
+session_id: K005_001 speaker_id: K005_002
+### session_id: K005_002 ###
+session_id: K005_002 speaker_id: K005_000
+session_id: K005_002 speaker_id: K005_003
+### session_id: K005_003 ###
+session_id: K005_003 speaker_id: K005_000
+session_id: K005_003 speaker_id: K005_001
+session_id: K005_003 speaker_id: K005_002
+session_id: K005_003 speaker_id: K005_004
+### session_id: K005_005 ###
+session_id: K005_005 speaker_id: K005_000
+session_id: K005_005 speaker_id: K005_006
+### session_id: K005_006 ###
+session_id: K005_006 speaker_id: K005_000
+session_id: K005_006 speaker_id: K005_012
+### session_id: K005_012 ###
+session_id: K005_012 speaker_id: K005_000
+session_id: K005_012 speaker_id: K005_001
+session_id: K005_012 speaker_id: K005_002
+session_id: K005_012 speaker_id: K005_012
+### session_id: K005_016 ###
+session_id: K005_016 speaker_id: K005_000
+session_id: K005_016 speaker_id: K005_008
+### session_id: K005_019a ###
+session_id: K005_019a speaker_id: K005_000
+session_id: K005_019a speaker_id: K005_004
+### session_id: K005_019b ###
+session_id: K005_019b speaker_id: K005_000
+session_id: K005_019b speaker_id: K005_004
+### session_id: K005_020 ###
+session_id: K005_020 speaker_id: K005_000
+session_id: K005_020 speaker_id: K005_001
+### session_id: K005_021a ###
+session_id: K005_021a speaker_id: K005_000
+wav file not found: K005_000
+session_id: K005_021a speaker_id: K005_010
+session_id: K005_021a speaker_id: K005_011
+wav file not found: K005_011
+session_id: K005_021a speaker_id: K005_016
+wav file not found: K005_016
+session_id: K005_021a speaker_id: K005_017
+wav file not found: K005_017
+### session_id: K005_021b ###
+session_id: K005_021b speaker_id: K005_000
+wav file not found: K005_000
+session_id: K005_021b speaker_id: K005_010
+session_id: K005_021b speaker_id: K005_011
+wav file not found: K005_011
+session_id: K005_021b speaker_id: K005_016
+wav file not found: K005_016
+### session_id: K005_024 ###
+session_id: K005_024 speaker_id: K005_000
+wav file not found: K005_000
+session_id: K005_024 speaker_id: K005_001
+wav file not found: K005_001
+session_id: K005_024 speaker_id: K005_002
+wav file not found: K005_002
+### session_id: K005_027 ###
+session_id: K005_027 speaker_id: K005_000
+session_id: K005_027 speaker_id: K005_013
+wav file not found: K005_013
+session_id: K005_027 speaker_id: K005_014
+### session_id: K005_028 ###
+session_id: K005_028 speaker_id: K005_000
+session_id: K005_028 speaker_id: K005_015
+### session_id: K005_031 ###
+session_id: K005_031 speaker_id: K005_000
+session_id: K005_031 speaker_id: K005_006
+### session_id: K005_033 ###
+session_id: K005_033 speaker_id: K005_000
+session_id: K005_033 speaker_id: K005_015
+### session_id: K006_002a ###
+session_id: K006_002a speaker_id: K006_000
+session_id: K006_002a speaker_id: K006_001
+### session_id: K006_002b ###
+session_id: K006_002b speaker_id: K006_000
+session_id: K006_002b speaker_id: K006_001
+### session_id: K006_003a ###
+session_id: K006_003a speaker_id: K006_000
+session_id: K006_003a speaker_id: K006_001
+### session_id: K006_003b ###
+session_id: K006_003b speaker_id: K006_000
+session_id: K006_003b speaker_id: K006_001
+### session_id: K006_006 ###
+session_id: K006_006 speaker_id: K006_000
+session_id: K006_006 speaker_id: K006_001
+### session_id: K006_009 ###
+session_id: K006_009 speaker_id: K006_000
+session_id: K006_009 speaker_id: K006_007
+### session_id: K006_011 ###
+session_id: K006_011 speaker_id: K006_000
+session_id: K006_011 speaker_id: K006_008
+session_id: K006_011 speaker_id: K006_021
+wav file not found: K006_021
+### session_id: K006_013 ###
+session_id: K006_013 speaker_id: K006_000
+session_id: K006_013 speaker_id: K006_001
+### session_id: K006_016 ###
+session_id: K006_016 speaker_id: K006_000
+session_id: K006_016 speaker_id: K006_013
+### session_id: K006_017 ###
+session_id: K006_017 speaker_id: K006_000
+session_id: K006_017 speaker_id: K006_009
+session_id: K006_017 speaker_id: K006_014
+### session_id: K006_018 ###
+session_id: K006_018 speaker_id: K006_000
+session_id: K006_018 speaker_id: K006_012
+### session_id: K006_020 ###
+session_id: K006_020 speaker_id: K006_000
+session_id: K006_020 speaker_id: K006_016
+### session_id: K006_021 ###
+session_id: K006_021 speaker_id: K006_000
+session_id: K006_021 speaker_id: K006_001
+session_id: K006_021 speaker_id: K006_017
+### session_id: K006_023 ###
+session_id: K006_023 speaker_id: K006_000
+session_id: K006_023 speaker_id: K006_018
+### session_id: K007_001 ###
+session_id: K007_001 speaker_id: K007_000
+session_id: K007_001 speaker_id: K007_001
+### session_id: K007_003 ###
+session_id: K007_003 speaker_id: K007_000
+session_id: K007_003 speaker_id: K007_003
+wav file not found: K007_003
+### session_id: K007_005 ###
+session_id: K007_005 speaker_id: K007_000
+session_id: K007_005 speaker_id: K007_004
+### session_id: K007_006 ###
+session_id: K007_006 speaker_id: K007_000
+session_id: K007_006 speaker_id: K007_003
+### session_id: K007_007 ###
+session_id: K007_007 speaker_id: K007_000
+session_id: K007_007 speaker_id: K007_004
+### session_id: K007_008 ###
+Warning: LUW and SUW are not matched: テンカイズ vs. ◇ at ('IC01_湯本', 1233.629, 1239.886)
+session_id: K007_008 speaker_id: K007_000
+session_id: K007_008 speaker_id: K007_003
+wav file not found: K007_003
+session_id: K007_008 speaker_id: K007_005
+### session_id: K007_013 ###
+session_id: K007_013 speaker_id: K007_000
+session_id: K007_013 speaker_id: K007_003
+### session_id: K007_014 ###
+session_id: K007_014 speaker_id: K007_000
+session_id: K007_014 speaker_id: K007_003
+### session_id: K007_015 ###
+session_id: K007_015 speaker_id: K007_000
+session_id: K007_015 speaker_id: K007_003
+### session_id: K007_016 ###
+session_id: K007_016 speaker_id: K007_000
+session_id: K007_016 speaker_id: K007_006
+session_id: K007_016 speaker_id: K007_013
+wav file not found: K007_013
+### session_id: K007_017 ###
+session_id: K007_017 speaker_id: K007_000
+session_id: K007_017 speaker_id: K007_003
+### session_id: K007_018 ###
+session_id: K007_018 speaker_id: K007_000
+session_id: K007_018 speaker_id: K007_004
+session_id: K007_018 speaker_id: K007_006
+session_id: K007_018 speaker_id: K007_007
+session_id: K007_018 speaker_id: K007_008
+wav file not found: K007_008
+session_id: K007_018 speaker_id: K007_009
+session_id: K007_018 speaker_id: K007_010
+### session_id: K007_019 ###
+session_id: K007_019 speaker_id: K007_000
+session_id: K007_019 speaker_id: K007_004
+session_id: K007_019 speaker_id: K007_007
+### session_id: K007_020 ###
+session_id: K007_020 speaker_id: K007_000
+session_id: K007_020 speaker_id: K007_011
+### session_id: K008_001a ###
+session_id: K008_001a speaker_id: K008_000
+session_id: K008_001a speaker_id: K008_001
+session_id: K008_001a speaker_id: K008_002
+### session_id: K008_001b ###
+session_id: K008_001b speaker_id: K008_000
+session_id: K008_001b speaker_id: K008_001
+session_id: K008_001b speaker_id: K008_002
+### session_id: K008_002 ###
+session_id: K008_002 speaker_id: K008_000
+session_id: K008_002 speaker_id: K008_003
+wav file not found: K008_003
+### session_id: K008_003 ###
+session_id: K008_003 speaker_id: K008_000
+session_id: K008_003 speaker_id: K008_004
+### session_id: K008_004a ###
+session_id: K008_004a speaker_id: K008_000
+session_id: K008_004a speaker_id: K008_005
+### session_id: K008_004b ###
+session_id: K008_004b speaker_id: K008_000
+session_id: K008_004b speaker_id: K008_005
+session_id: K008_004b speaker_id: K008_019
+wav file not found: K008_019
+session_id: K008_004b speaker_id: K008_020
+wav file not found: K008_020
+### session_id: K008_005 ###
+session_id: K008_005 speaker_id: K008_000
+session_id: K008_005 speaker_id: K008_006
+session_id: K008_005 speaker_id: K008_007
+wav file not found: K008_007
+### session_id: K008_010 ###
+session_id: K008_010 speaker_id: K008_000
+session_id: K008_010 speaker_id: K008_011
+session_id: K008_010 speaker_id: K008_022
+wav file not found: K008_022
+### session_id: K008_013 ###
+session_id: K008_013 speaker_id: K008_000
+session_id: K008_013 speaker_id: K008_004
+session_id: K008_013 speaker_id: K008_021
+wav file not found: K008_021
+### session_id: K008_015 ###
+session_id: K008_015 speaker_id: K008_000
+session_id: K008_015 speaker_id: K008_013
+session_id: K008_015 speaker_id: K008_023
+wav file not found: K008_023
+session_id: K008_015 speaker_id: K008_024
+wav file not found: K008_024
+### session_id: K008_016 ###
+session_id: K008_016 speaker_id: K008_000
+session_id: K008_016 speaker_id: K008_014
+session_id: K008_016 speaker_id: K008_025
+wav file not found: K008_025
+### session_id: K008_019 ###
+session_id: K008_019 speaker_id: K008_000
+session_id: K008_019 speaker_id: K008_004
+session_id: K008_019 speaker_id: K008_006
+session_id: K008_019 speaker_id: K008_007
+### session_id: K009_002 ###
+session_id: K009_002 speaker_id: K009_000
+session_id: K009_002 speaker_id: K009_005
+session_id: K009_002 speaker_id: K009_006
+### session_id: K009_003 ###
+session_id: K009_003 speaker_id: K009_000
+session_id: K009_003 speaker_id: K009_005
+session_id: K009_003 speaker_id: K009_006
+### session_id: K009_006 ###
+session_id: K009_006 speaker_id: K009_000
+session_id: K009_006 speaker_id: K009_006
+session_id: K009_006 speaker_id: K009_012
+session_id: K009_006 speaker_id: K009_013
+session_id: K009_006 speaker_id: K009_014
+### session_id: K009_007 ###
+session_id: K009_007 speaker_id: K009_000
+session_id: K009_007 speaker_id: K009_015
+### session_id: K009_008 ###
+session_id: K009_008 speaker_id: K009_000
+session_id: K009_008 speaker_id: K009_005
+session_id: K009_008 speaker_id: K009_006
+### session_id: K009_009a ###
+session_id: K009_009a speaker_id: K009_000
+session_id: K009_009a speaker_id: K009_016
+session_id: K009_009a speaker_id: K009_017
+session_id: K009_009a speaker_id: K009_018
+session_id: K009_009a speaker_id: K009_019
+### session_id: K009_009b ###
+session_id: K009_009b speaker_id: K009_000
+session_id: K009_009b speaker_id: K009_016
+session_id: K009_009b speaker_id: K009_017
+session_id: K009_009b speaker_id: K009_018
+session_id: K009_009b speaker_id: K009_019
+session_id: K009_009b speaker_id: K009_025
+wav file not found: K009_025
+session_id: K009_009b speaker_id: K009_030
+wav file not found: K009_030
+session_id: K009_009b speaker_id: K009_032
+wav file not found: K009_032
+### session_id: K009_010 ###
+session_id: K009_010 speaker_id: K009_000
+session_id: K009_010 speaker_id: K009_001
+session_id: K009_010 speaker_id: K009_007
+### session_id: K009_011 ###
+session_id: K009_011 speaker_id: K009_000
+session_id: K009_011 speaker_id: K009_006
+session_id: K009_011 speaker_id: K009_013
+session_id: K009_011 speaker_id: K009_014
+### session_id: K009_012 ###
+session_id: K009_012 speaker_id: K009_000
+session_id: K009_012 speaker_id: K009_006
+session_id: K009_012 speaker_id: K009_020
+session_id: K009_012 speaker_id: K009_021
+### session_id: K009_014 ###
+session_id: K009_014 speaker_id: K009_000
+session_id: K009_014 speaker_id: K009_001
+session_id: K009_014 speaker_id: K009_004
+### session_id: K009_015 ###
+session_id: K009_015 speaker_id: K009_000
+session_id: K009_015 speaker_id: K009_016
+wav file not found: K009_016
+session_id: K009_015 speaker_id: K009_017
+session_id: K009_015 speaker_id: K009_023
+session_id: K009_015 speaker_id: K009_024
+session_id: K009_015 speaker_id: K009_025
+### session_id: K009_016a ###
+session_id: K009_016a speaker_id: K009_000
+session_id: K009_016a speaker_id: K009_006
+session_id: K009_016a speaker_id: K009_026
+session_id: K009_016a speaker_id: K009_027
+### session_id: K009_016b ###
+session_id: K009_016b speaker_id: K009_000
+session_id: K009_016b speaker_id: K009_006
+session_id: K009_016b speaker_id: K009_026
+session_id: K009_016b speaker_id: K009_027
+### session_id: K009_019 ###
+session_id: K009_019 speaker_id: K009_000
+session_id: K009_019 speaker_id: K009_001
+session_id: K009_019 speaker_id: K009_017
+session_id: K009_019 speaker_id: K009_018
+session_id: K009_019 speaker_id: K009_023
+session_id: K009_019 speaker_id: K009_025
+session_id: K009_019 speaker_id: K009_035
+wav file not found: K009_035
+### session_id: K010_001 ###
+session_id: K010_001 speaker_id: K010_000
+session_id: K010_001 speaker_id: K010_001
+session_id: K010_001 speaker_id: K010_002
+### session_id: K010_003a ###
+session_id: K010_003a speaker_id: K010_000
+session_id: K010_003a speaker_id: K010_003
+wav file not found: K010_003
+### session_id: K010_003b ###
+session_id: K010_003b speaker_id: K010_000
+session_id: K010_003b speaker_id: K010_003
+wav file not found: K010_003
+### session_id: K010_004a ###
+session_id: K010_004a speaker_id: K010_000
+session_id: K010_004a speaker_id: K010_004
+wav file not found: K010_004
+### session_id: K010_004b ###
+session_id: K010_004b speaker_id: K010_000
+session_id: K010_004b speaker_id: K010_004
+wav file not found: K010_004
+### session_id: K010_005a ###
+session_id: K010_005a speaker_id: K010_000
+session_id: K010_005a speaker_id: K010_005
+session_id: K010_005a speaker_id: K010_023
+wav file not found: K010_023
+### session_id: K010_005b ###
+session_id: K010_005b speaker_id: K010_000
+session_id: K010_005b speaker_id: K010_005
+session_id: K010_005b speaker_id: K010_023
+wav file not found: K010_023
+### session_id: K010_006 ###
+session_id: K010_006 speaker_id: K010_000
+session_id: K010_006 speaker_id: K010_006
+### session_id: K010_008 ###
+session_id: K010_008 speaker_id: K010_000
+session_id: K010_008 speaker_id: K010_009
+### session_id: K010_011a ###
+session_id: K010_011a speaker_id: K010_000
+session_id: K010_011a speaker_id: K010_012
+session_id: K010_011a speaker_id: K010_013
+### session_id: K010_011b ###
+session_id: K010_011b speaker_id: K010_000
+session_id: K010_011b speaker_id: K010_013
+### session_id: K010_012a ###
+session_id: K010_012a speaker_id: K010_000
+session_id: K010_012a speaker_id: K010_006
+session_id: K010_012a speaker_id: K010_014
+session_id: K010_012a speaker_id: K010_024
+wav file not found: K010_024
+### session_id: K010_012b ###
+session_id: K010_012b speaker_id: K010_000
+session_id: K010_012b speaker_id: K010_006
+session_id: K010_012b speaker_id: K010_014
+### session_id: K010_013a ###
+session_id: K010_013a speaker_id: K010_000
+session_id: K010_013a speaker_id: K010_015
+### session_id: K010_013b ###
+session_id: K010_013b speaker_id: K010_000
+session_id: K010_013b speaker_id: K010_015
+### session_id: K010_015 ###
+session_id: K010_015 speaker_id: K010_000
+session_id: K010_015 speaker_id: K010_003
+session_id: K010_015 speaker_id: K010_007
+session_id: K010_015 speaker_id: K010_020
+### session_id: K010_016 ###
+session_id: K010_016 speaker_id: K010_000
+session_id: K010_016 speaker_id: K010_001
+session_id: K010_016 speaker_id: K010_002
+### session_id: K010_017 ###
+session_id: K010_017 speaker_id: K010_000
+session_id: K010_017 speaker_id: K010_001
+### session_id: K011_002 ###
+session_id: K011_002 speaker_id: K011_000
+session_id: K011_002 speaker_id: K011_003
+session_id: K011_002 speaker_id: K011_004
+session_id: K011_002 speaker_id: K011_005
+### session_id: K011_004 ###
+session_id: K011_004 speaker_id: K011_000
+session_id: K011_004 speaker_id: K011_001
+session_id: K011_004 speaker_id: K011_002
+session_id: K011_004 speaker_id: K011_009
+### session_id: K011_005 ###
+session_id: K011_005 speaker_id: K011_000
+session_id: K011_005 speaker_id: K011_010
+### session_id: K011_007 ###
+session_id: K011_007 speaker_id: K011_000
+session_id: K011_007 speaker_id: K011_014
+session_id: K011_007 speaker_id: K011_015
+session_id: K011_007 speaker_id: K011_037
+wav file not found: K011_037
+### session_id: K011_009a ###
+session_id: K011_009a speaker_id: K011_000
+session_id: K011_009a speaker_id: K011_017
+### session_id: K011_009b ###
+session_id: K011_009b speaker_id: K011_000
+session_id: K011_009b speaker_id: K011_017
+### session_id: K011_015 ###
+session_id: K011_015 speaker_id: K011_000
+session_id: K011_015 speaker_id: K011_001
+session_id: K011_015 speaker_id: K011_009
+### session_id: K011_016a ###
+session_id: K011_016a speaker_id: K011_000
+session_id: K011_016a speaker_id: K011_032
+session_id: K011_016a speaker_id: K011_033
+session_id: K011_016a speaker_id: K011_035
+wav file not found: K011_035
+### session_id: K011_016b ###
+session_id: K011_016b speaker_id: K011_000
+session_id: K011_016b speaker_id: K011_032
+session_id: K011_016b speaker_id: K011_033
+session_id: K011_016b speaker_id: K011_035
+wav file not found: K011_035
+### session_id: K011_018 ###
+session_id: K011_018 speaker_id: K011_000
+session_id: K011_018 speaker_id: K011_031
+session_id: K011_018 speaker_id: K011_036
+### session_id: K011_019a ###
+session_id: K011_019a speaker_id: K011_000
+session_id: K011_019a speaker_id: K011_031
+session_id: K011_019a speaker_id: K011_036
+### session_id: K011_019b ###
+session_id: K011_019b speaker_id: K011_000
+session_id: K011_019b speaker_id: K011_031
+session_id: K011_019b speaker_id: K011_036
+### session_id: K012_001 ###
+session_id: K012_001 speaker_id: K012_000
+session_id: K012_001 speaker_id: K012_001
+### session_id: K012_002a ###
+session_id: K012_002a speaker_id: K012_000
+session_id: K012_002a speaker_id: K012_002
+### session_id: K012_002b ###
+session_id: K012_002b speaker_id: K012_000
+session_id: K012_002b speaker_id: K012_002
+### session_id: K012_002c ###
+session_id: K012_002c speaker_id: K012_000
+session_id: K012_002c speaker_id: K012_002
+### session_id: K012_002d ###
+session_id: K012_002d speaker_id: K012_000
+session_id: K012_002d speaker_id: K012_002
+### session_id: K012_003a ###
+session_id: K012_003a speaker_id: K012_000
+session_id: K012_003a speaker_id: K012_003
+### session_id: K012_003b ###
+session_id: K012_003b speaker_id: K012_000
+session_id: K012_003b speaker_id: K012_003
+### session_id: K012_003c ###
+session_id: K012_003c speaker_id: K012_000
+session_id: K012_003c speaker_id: K012_003
+session_id: K012_003c speaker_id: K012_004
+### session_id: K012_004 ###
+session_id: K012_004 speaker_id: K012_000
+session_id: K012_004 speaker_id: K012_003
+session_id: K012_004 speaker_id: K012_005
+### session_id: K012_006 ###
+session_id: K012_006 speaker_id: K012_000
+session_id: K012_006 speaker_id: K012_003
+### session_id: K012_007a ###
+session_id: K012_007a speaker_id: K012_000
+session_id: K012_007a speaker_id: K012_003
+### session_id: K012_007b ###
+session_id: K012_007b speaker_id: K012_000
+session_id: K012_007b speaker_id: K012_003
+wav file not found: K012_003
+### session_id: K013_003 ###
+session_id: K013_003 speaker_id: K013_000
+session_id: K013_003 speaker_id: K013_002
+session_id: K013_003 speaker_id: K013_004
+### session_id: K013_004 ###
+session_id: K013_004 speaker_id: K013_000
+session_id: K013_004 speaker_id: K013_001
+### session_id: K013_009 ###
+session_id: K013_009 speaker_id: K013_000
+session_id: K013_009 speaker_id: K013_002
+session_id: K013_009 speaker_id: K013_004
+wav file not found: K013_004
+session_id: K013_009 speaker_id: K013_005
+### session_id: K013_011 ###
+session_id: K013_011 speaker_id: K013_000
+session_id: K013_011 speaker_id: K013_002
+session_id: K013_011 speaker_id: K013_003
+session_id: K013_011 speaker_id: K013_005
+### session_id: K013_012 ###
+session_id: K013_012 speaker_id: K013_000
+session_id: K013_012 speaker_id: K013_001
+### session_id: K013_017 ###
+session_id: K013_017 speaker_id: K013_000
+session_id: K013_017 speaker_id: K013_001
+### session_id: K013_019 ###
+Warning: LUW and SUW are not matched: シュクガ vs. ジャ at ('IC02_祖母', 1814.153, 1818.205)
+Warning: LUW and SUW are not matched: シュクガ vs. ジャ at ('IC02_祖母', 1814.153, 1818.205)
+Warning: LUW and SUW are not matched: シュクガ vs. ナイ at ('IC02_祖母', 1814.153, 1818.205)
+Warning: LUW and SUW are not matched: シュクガ vs. ナイ at ('IC02_祖母', 1814.153, 1818.205)
+session_id: K013_019 speaker_id: K013_000
+session_id: K013_019 speaker_id: K013_004
+### session_id: K013_020 ###
+session_id: K013_020 speaker_id: K013_000
+session_id: K013_020 speaker_id: K013_001
+session_id: K013_020 speaker_id: K013_008
+session_id: K013_020 speaker_id: K013_009
+### session_id: S001_004 ###
+session_id: S001_004 speaker_id: S001_000
+session_id: S001_004 speaker_id: S001_003
+session_id: S001_004 speaker_id: S001_004
+session_id: S001_004 speaker_id: S001_005
+wav file not found: S001_005
+session_id: S001_004 speaker_id: S001_008
+session_id: S001_004 speaker_id: S001_009
+session_id: S001_004 speaker_id: S001_010
+### session_id: S001_006 ###
+session_id: S001_006 speaker_id: S001_000
+session_id: S001_006 speaker_id: S001_005
+session_id: S001_006 speaker_id: S001_011
+session_id: S001_006 speaker_id: S001_012
+### session_id: S001_011 ###
+session_id: S001_011 speaker_id: S001_000
+session_id: S001_011 speaker_id: S001_005
+session_id: S001_011 speaker_id: S001_014
+wav file not found: S001_014
+### session_id: S001_012 ###
+session_id: S001_012 speaker_id: S001_000
+session_id: S001_012 speaker_id: S001_005
+wav file not found: S001_005
+session_id: S001_012 speaker_id: S001_006
+session_id: S001_012 speaker_id: S001_007
+session_id: S001_012 speaker_id: S001_014
+session_id: S001_012 speaker_id: S001_015
+### session_id: S001_013 ###
+session_id: S001_013 speaker_id: S001_000
+session_id: S001_013 speaker_id: S001_005
+### session_id: S001_015 ###
+session_id: S001_015 speaker_id: S001_000
+session_id: S001_015 speaker_id: S001_005
+session_id: S001_015 speaker_id: S001_006
+session_id: S001_015 speaker_id: S001_007
+### session_id: S001_017 ###
+session_id: S001_017 speaker_id: S001_000
+session_id: S001_017 speaker_id: S001_005
+wav file not found: S001_005
+session_id: S001_017 speaker_id: S001_006
+session_id: S001_017 speaker_id: S001_007
+session_id: S001_017 speaker_id: S001_016
+session_id: S001_017 speaker_id: S001_017
+session_id: S001_017 speaker_id: S001_018
+### session_id: S001_018 ###
+session_id: S001_018 speaker_id: S001_000
+session_id: S001_018 speaker_id: S001_009
+session_id: S001_018 speaker_id: S001_019
+### session_id: S001_019 ###
+session_id: S001_019 speaker_id: S001_000
+session_id: S001_019 speaker_id: S001_005
+session_id: S001_019 speaker_id: S001_020
+### session_id: S002_001 ###
+session_id: S002_001 speaker_id: S002_000
+session_id: S002_001 speaker_id: S002_001
+session_id: S002_001 speaker_id: S002_002
+session_id: S002_001 speaker_id: S002_003
+session_id: S002_001 speaker_id: S002_025
+wav file not found: S002_025
+### session_id: S002_003 ###
+session_id: S002_003 speaker_id: S002_000
+session_id: S002_003 speaker_id: S002_005
+session_id: S002_003 speaker_id: S002_007
+### session_id: S002_004 ###
+session_id: S002_004 speaker_id: S002_000
+session_id: S002_004 speaker_id: S002_001
+session_id: S002_004 speaker_id: S002_005
+session_id: S002_004 speaker_id: S002_026
+wav file not found: S002_026
+session_id: S002_004 speaker_id: S002_027
+wav file not found: S002_027
+### session_id: S002_005 ###
+session_id: S002_005 speaker_id: S002_000
+session_id: S002_005 speaker_id: S002_008
+### session_id: S002_007 ###
+session_id: S002_007 speaker_id: S002_000
+session_id: S002_007 speaker_id: S002_011
+session_id: S002_007 speaker_id: S002_012
+session_id: S002_007 speaker_id: S002_013
+session_id: S002_007 speaker_id: S002_018
+session_id: S002_007 speaker_id: S002_028
+wav file not found: S002_028
+### session_id: S002_008 ###
+session_id: S002_008 speaker_id: S002_000
+session_id: S002_008 speaker_id: S002_014
+session_id: S002_008 speaker_id: S002_015
+### session_id: S002_009 ###
+session_id: S002_009 speaker_id: S002_000
+session_id: S002_009 speaker_id: S002_016
+session_id: S002_009 speaker_id: S002_017
+session_id: S002_009 speaker_id: S002_031
+wav file not found: S002_031
+### session_id: S002_010 ###
+session_id: S002_010 speaker_id: S002_000
+session_id: S002_010 speaker_id: S002_002
+session_id: S002_010 speaker_id: S002_005
+session_id: S002_010 speaker_id: S002_007
+wav file not found: S002_007
+session_id: S002_010 speaker_id: S002_019
+session_id: S002_010 speaker_id: S002_020
+session_id: S002_010 speaker_id: S002_022
+session_id: S002_010 speaker_id: S002_032
+wav file not found: S002_032
+### session_id: S002_011 ###
+session_id: S002_011 speaker_id: S002_000
+session_id: S002_011 speaker_id: S002_009
+session_id: S002_011 speaker_id: S002_021
+session_id: S002_011 speaker_id: S002_023
+session_id: S002_011 speaker_id: S002_033
+wav file not found: S002_033
+### session_id: S002_012 ###
+session_id: S002_012 speaker_id: S002_000
+session_id: S002_012 speaker_id: S002_002
+session_id: S002_012 speaker_id: S002_029
+wav file not found: S002_029
+session_id: S002_012 speaker_id: S002_030
+wav file not found: S002_030
+### session_id: S002_014 ###
+session_id: S002_014 speaker_id: S002_000
+session_id: S002_014 speaker_id: S002_024
+### session_id: T001_002 ###
+session_id: T001_002 speaker_id: T001_000
+session_id: T001_002 speaker_id: T001_001
+### session_id: T001_003 ###
+session_id: T001_003 speaker_id: T001_000
+session_id: T001_003 speaker_id: T001_003
+session_id: T001_003 speaker_id: T001_013
+wav file not found: T001_013
+session_id: T001_003 speaker_id: T001_014
+wav file not found: T001_014
+### session_id: T001_005 ###
+session_id: T001_005 speaker_id: T001_000
+session_id: T001_005 speaker_id: T001_004
+### session_id: T001_007 ###
+session_id: T001_007 speaker_id: T001_000
+session_id: T001_007 speaker_id: T001_001
+### session_id: T001_008 ###
+session_id: T001_008 speaker_id: T001_000
+session_id: T001_008 speaker_id: T001_005
+### session_id: T001_009 ###
+session_id: T001_009 speaker_id: T001_000
+session_id: T001_009 speaker_id: T001_001
+session_id: T001_009 speaker_id: T001_002
+### session_id: T001_011 ###
+Warning: LUW and SUW are not matched: テー vs. ナク at ('IC05_広瀬', 1617.199, 1624.267)
+Warning: LUW and SUW are not matched: テー vs. ナク at ('IC05_広瀬', 1617.199, 1624.267)
+session_id: T001_011 speaker_id: T001_000
+session_id: T001_011 speaker_id: T001_001
+session_id: T001_011 speaker_id: T001_006
+session_id: T001_011 speaker_id: T001_007
+### session_id: T001_014 ###
+session_id: T001_014 speaker_id: T001_000
+session_id: T001_014 speaker_id: T001_008
+session_id: T001_014 speaker_id: T001_009
+session_id: T001_014 speaker_id: T001_011
+wav file not found: T001_011
+session_id: T001_014 speaker_id: T001_012
+wav file not found: T001_012
+### session_id: T001_015 ###
+session_id: T001_015 speaker_id: T001_000
+session_id: T001_015 speaker_id: T001_004
+session_id: T001_015 speaker_id: T001_016
+wav file not found: T001_016
+session_id: T001_015 speaker_id: T001_017
+wav file not found: T001_017
+### session_id: T001_016 ###
+session_id: T001_016 speaker_id: T001_000
+session_id: T001_016 speaker_id: T001_010
+session_id: T001_016 speaker_id: T001_015
+wav file not found: T001_015
+### session_id: T001_019 ###
+session_id: T001_019 speaker_id: T001_000
+session_id: T001_019 speaker_id: T001_001
+session_id: T001_019 speaker_id: T001_002
+### session_id: T002_006a ###
+session_id: T002_006a speaker_id: T002_000
+session_id: T002_006a speaker_id: T002_006
+session_id: T002_006a speaker_id: T002_007
+### session_id: T002_006b ###
+session_id: T002_006b speaker_id: T002_000
+session_id: T002_006b speaker_id: T002_006
+session_id: T002_006b speaker_id: T002_007
+### session_id: T002_006c ###
+session_id: T002_006c speaker_id: T002_000
+session_id: T002_006c speaker_id: T002_006
+session_id: T002_006c speaker_id: T002_007
+### session_id: T002_011a ###
+session_id: T002_011a speaker_id: T002_000
+session_id: T002_011a speaker_id: T002_011
+### session_id: T002_011b ###
+session_id: T002_011b speaker_id: T002_000
+session_id: T002_011b speaker_id: T002_011
+### session_id: T002_011c ###
+session_id: T002_011c speaker_id: T002_000
+session_id: T002_011c speaker_id: T002_011
+### session_id: T002_012 ###
+session_id: T002_012 speaker_id: T002_000
+session_id: T002_012 speaker_id: T002_012
+### session_id: T002_013 ###
+session_id: T002_013 speaker_id: T002_000
+session_id: T002_013 speaker_id: T002_013
+session_id: T002_013 speaker_id: T002_019
+wav file not found: T002_019
+### session_id: T002_014 ###
+session_id: T002_014 speaker_id: T002_000
+session_id: T002_014 speaker_id: T002_014
+session_id: T002_014 speaker_id: T002_015
+session_id: T002_014 speaker_id: T002_020
+wav file not found: T002_020
+### session_id: T002_015 ###
+session_id: T002_015 speaker_id: T002_000
+session_id: T002_015 speaker_id: T002_001
+session_id: T002_015 speaker_id: T002_021
+wav file not found: T002_021
+### session_id: T002_018 ###
+session_id: T002_018 speaker_id: T002_000
+session_id: T002_018 speaker_id: T002_015
+### session_id: T002_019 ###
+session_id: T002_019 speaker_id: T002_000
+session_id: T002_019 speaker_id: T002_013
+### session_id: T002_020 ###
+session_id: T002_020 speaker_id: T002_000
+session_id: T002_020 speaker_id: T002_017
+session_id: T002_020 speaker_id: T002_018
+### session_id: T003_001 ###
+session_id: T003_001 speaker_id: T003_000
+session_id: T003_001 speaker_id: T003_001
+session_id: T003_001 speaker_id: T003_002
+### session_id: T003_002 ###
+session_id: T003_002 speaker_id: T003_000
+session_id: T003_002 speaker_id: T003_001
+session_id: T003_002 speaker_id: T003_002
+session_id: T003_002 speaker_id: T003_003
+### session_id: T003_003 ###
+session_id: T003_003 speaker_id: T003_000
+session_id: T003_003 speaker_id: T003_004
+session_id: T003_003 speaker_id: T003_020
+wav file not found: T003_020
+### session_id: T003_004 ###
+session_id: T003_004 speaker_id: T003_000
+session_id: T003_004 speaker_id: T003_005
+session_id: T003_004 speaker_id: T003_006
+### session_id: T003_006 ###
+session_id: T003_006 speaker_id: T003_000
+session_id: T003_006 speaker_id: T003_003
+session_id: T003_006 speaker_id: T003_008
+session_id: T003_006 speaker_id: T003_009
+session_id: T003_006 speaker_id: T003_010
+### session_id: T003_007 ###
+session_id: T003_007 speaker_id: T003_000
+session_id: T003_007 speaker_id: T003_003
+session_id: T003_007 speaker_id: T003_008
+session_id: T003_007 speaker_id: T003_009
+session_id: T003_007 speaker_id: T003_010
+### session_id: T003_012 ###
+session_id: T003_012 speaker_id: T003_000
+session_id: T003_012 speaker_id: T003_001
+session_id: T003_012 speaker_id: T003_002
+session_id: T003_012 speaker_id: T003_003
+session_id: T003_012 speaker_id: T003_021
+wav file not found: T003_021
+session_id: T003_012 speaker_id: T003_022
+wav file not found: T003_022
+### session_id: T003_015 ###
+session_id: T003_015 speaker_id: T003_000
+session_id: T003_015 speaker_id: T003_001
+session_id: T003_015 speaker_id: T003_002
+session_id: T003_015 speaker_id: T003_003
+session_id: T003_015 speaker_id: T003_019
+wav file not found: T003_019
+### session_id: T003_017 ###
+session_id: T003_017 speaker_id: T003_000
+session_id: T003_017 speaker_id: T003_011
+session_id: T003_017 speaker_id: T003_012
+session_id: T003_017 speaker_id: T003_013
+session_id: T003_017 speaker_id: T003_014
+### session_id: T003_018 ###
+session_id: T003_018 speaker_id: T003_000
+session_id: T003_018 speaker_id: T003_001
+session_id: T003_018 speaker_id: T003_002
+session_id: T003_018 speaker_id: T003_003
+### session_id: T003_019 ###
+session_id: T003_019 speaker_id: T003_000
+session_id: T003_019 speaker_id: T003_001
+session_id: T003_019 speaker_id: T003_002
+session_id: T003_019 speaker_id: T003_003
+### session_id: T003_021 ###
+session_id: T003_021 speaker_id: T003_000
+session_id: T003_021 speaker_id: T003_015
+session_id: T003_021 speaker_id: T003_016
+session_id: T003_021 speaker_id: T003_017
+session_id: T003_021 speaker_id: T003_018
+### session_id: T004_001 ###
+session_id: T004_001 speaker_id: T004_000
+session_id: T004_001 speaker_id: T004_001
+session_id: T004_001 speaker_id: T004_002
+### session_id: T004_002 ###
+session_id: T004_002 speaker_id: T004_000
+session_id: T004_002 speaker_id: T004_003
+session_id: T004_002 speaker_id: T004_004
+session_id: T004_002 speaker_id: T004_005
+### session_id: T004_003 ###
+session_id: T004_003 speaker_id: T004_000
+session_id: T004_003 speaker_id: T004_001
+session_id: T004_003 speaker_id: T004_002
+session_id: T004_003 speaker_id: T004_034
+wav file not found: T004_034
+session_id: T004_003 speaker_id: T004_035
+wav file not found: T004_035
+### session_id: T004_005a ###
+session_id: T004_005a speaker_id: T004_000
+session_id: T004_005a speaker_id: T004_011
+session_id: T004_005a speaker_id: T004_012
+session_id: T004_005a speaker_id: T004_013
+### session_id: T004_005b ###
+session_id: T004_005b speaker_id: T004_000
+session_id: T004_005b speaker_id: T004_011
+session_id: T004_005b speaker_id: T004_012
+session_id: T004_005b speaker_id: T004_013
+### session_id: T004_006 ###
+session_id: T004_006 speaker_id: T004_000
+session_id: T004_006 speaker_id: T004_014
+### session_id: T004_010a ###
+session_id: T004_010a speaker_id: T004_000
+session_id: T004_010a speaker_id: T004_021
+session_id: T004_010a speaker_id: T004_022
+session_id: T004_010a speaker_id: T004_023
+session_id: T004_010a speaker_id: T004_024
+session_id: T004_010a speaker_id: T004_025
+### session_id: T004_010b ###
+session_id: T004_010b speaker_id: T004_000
+session_id: T004_010b speaker_id: T004_021
+session_id: T004_010b speaker_id: T004_022
+session_id: T004_010b speaker_id: T004_023
+session_id: T004_010b speaker_id: T004_024
+session_id: T004_010b speaker_id: T004_025
+### session_id: T004_011 ###
+session_id: T004_011 speaker_id: T004_000
+session_id: T004_011 speaker_id: T004_026
+session_id: T004_011 speaker_id: T004_027
+session_id: T004_011 speaker_id: T004_028
+session_id: T004_011 speaker_id: T004_029
+session_id: T004_011 speaker_id: T004_036
+wav file not found: T004_036
+### session_id: T004_013 ###
+session_id: T004_013 speaker_id: T004_000
+session_id: T004_013 speaker_id: T004_030
+session_id: T004_013 speaker_id: T004_031
+session_id: T004_013 speaker_id: T004_032
+session_id: T004_013 speaker_id: T004_033
+### session_id: T004_014 ###
+session_id: T004_014 speaker_id: T004_000
+session_id: T004_014 speaker_id: T004_008
+session_id: T004_014 speaker_id: T004_017
+session_id: T004_014 speaker_id: T004_018
+### session_id: T004_016 ###
+session_id: T004_016 speaker_id: T004_000
+session_id: T004_016 speaker_id: T004_001
+### session_id: T004_017 ###
+session_id: T004_017 speaker_id: T004_000
+session_id: T004_017 speaker_id: T004_006
+session_id: T004_017 speaker_id: T004_008
+session_id: T004_017 speaker_id: T004_009
+session_id: T004_017 speaker_id: T004_010
+session_id: T004_017 speaker_id: T004_019
+session_id: T004_017 speaker_id: T004_020
+### session_id: T005_001 ###
+session_id: T005_001 speaker_id: T005_000
+session_id: T005_001 speaker_id: T005_001
+session_id: T005_001 speaker_id: T005_002
+session_id: T005_001 speaker_id: T005_003
+session_id: T005_001 speaker_id: T005_004
+session_id: T005_001 speaker_id: T005_005
+session_id: T005_001 speaker_id: T005_006
+session_id: T005_001 speaker_id: T005_007
+### session_id: T005_002 ###
+session_id: T005_002 speaker_id: T005_000
+session_id: T005_002 speaker_id: T005_008
+session_id: T005_002 speaker_id: T005_009
+### session_id: T005_004 ###
+session_id: T005_004 speaker_id: T005_000
+session_id: T005_004 speaker_id: T005_016
+session_id: T005_004 speaker_id: T005_017
+session_id: T005_004 speaker_id: T005_018
+session_id: T005_004 speaker_id: T005_019
+session_id: T005_004 speaker_id: T005_020
+session_id: T005_004 speaker_id: T005_021
+session_id: T005_004 speaker_id: T005_022
+session_id: T005_004 speaker_id: T005_023
+### session_id: T005_005 ###
+session_id: T005_005 speaker_id: T005_000
+session_id: T005_005 speaker_id: T005_025
+session_id: T005_005 speaker_id: T005_026
+session_id: T005_005 speaker_id: T005_027
+session_id: T005_005 speaker_id: T005_028
+session_id: T005_005 speaker_id: T005_029
+session_id: T005_005 speaker_id: T005_076
+wav file not found: T005_076
+### session_id: T005_006 ###
+session_id: T005_006 speaker_id: T005_000
+session_id: T005_006 speaker_id: T005_008
+session_id: T005_006 speaker_id: T005_030
+### session_id: T005_007 ###
+session_id: T005_007 speaker_id: T005_000
+session_id: T005_007 speaker_id: T005_008
+session_id: T005_007 speaker_id: T005_009
+session_id: T005_007 speaker_id: T005_031
+session_id: T005_007 speaker_id: T005_032
+session_id: T005_007 speaker_id: T005_033
+session_id: T005_007 speaker_id: T005_034
+session_id: T005_007 speaker_id: T005_072
+wav file not found: T005_072
+### session_id: T005_008 ###
+session_id: T005_008 speaker_id: T005_000
+session_id: T005_008 speaker_id: T005_035
+session_id: T005_008 speaker_id: T005_036
+session_id: T005_008 speaker_id: T005_077
+wav file not found: T005_077
+session_id: T005_008 speaker_id: T005_078
+wav file not found: T005_078
+### session_id: T005_009 ###
+session_id: T005_009 speaker_id: T005_000
+session_id: T005_009 speaker_id: T005_037
+session_id: T005_009 speaker_id: T005_038
+session_id: T005_009 speaker_id: T005_039
+session_id: T005_009 speaker_id: T005_040
+session_id: T005_009 speaker_id: T005_041
+session_id: T005_009 speaker_id: T005_042
+session_id: T005_009 speaker_id: T005_043
+session_id: T005_009 speaker_id: T005_044
+session_id: T005_009 speaker_id: T005_045
+session_id: T005_009 speaker_id: T005_046
+session_id: T005_009 speaker_id: T005_047
+### session_id: T005_010 ###
+session_id: T005_010 speaker_id: T005_000
+session_id: T005_010 speaker_id: T005_010
+session_id: T005_010 speaker_id: T005_012
+session_id: T005_010 speaker_id: T005_014
+session_id: T005_010 speaker_id: T005_015
+session_id: T005_010 speaker_id: T005_048
+session_id: T005_010 speaker_id: T005_049
+session_id: T005_010 speaker_id: T005_073
+wav file not found: T005_073
+### session_id: T005_011a ###
+session_id: T005_011a speaker_id: T005_000
+session_id: T005_011a speaker_id: T005_003
+session_id: T005_011a speaker_id: T005_006
+session_id: T005_011a speaker_id: T005_074
+wav file not found: T005_074
+session_id: T005_011a speaker_id: T005_075
+wav file not found: T005_075
+### session_id: T005_011b ###
+session_id: T005_011b speaker_id: T005_000
+session_id: T005_011b speaker_id: T005_003
+session_id: T005_011b speaker_id: T005_006
+session_id: T005_011b speaker_id: T005_074
+wav file not found: T005_074
+### session_id: T005_012 ###
+session_id: T005_012 speaker_id: T005_000
+session_id: T005_012 speaker_id: T005_050
+session_id: T005_012 speaker_id: T005_051
+session_id: T005_012 speaker_id: T005_079
+wav file not found: T005_079
+session_id: T005_012 speaker_id: T005_080
+wav file not found: T005_080
+### session_id: T005_013 ###
+session_id: T005_013 speaker_id: T005_000
+session_id: T005_013 speaker_id: T005_052
+session_id: T005_013 speaker_id: T005_053
+session_id: T005_013 speaker_id: T005_054
+session_id: T005_013 speaker_id: T005_055
+session_id: T005_013 speaker_id: T005_056
+session_id: T005_013 speaker_id: T005_057
+session_id: T005_013 speaker_id: T005_058
+session_id: T005_013 speaker_id: T005_059
+session_id: T005_013 speaker_id: T005_060
+session_id: T005_013 speaker_id: T005_061
+session_id: T005_013 speaker_id: T005_062
+session_id: T005_013 speaker_id: T005_063
+session_id: T005_013 speaker_id: T005_064
+session_id: T005_013 speaker_id: T005_065
+session_id: T005_013 speaker_id: T005_081
+wav file not found: T005_081
+### session_id: T005_019 ###
+session_id: T005_019 speaker_id: T005_000
+session_id: T005_019 speaker_id: T005_052
+session_id: T005_019 speaker_id: T005_053
+session_id: T005_019 speaker_id: T005_054
+session_id: T005_019 speaker_id: T005_055
+session_id: T005_019 speaker_id: T005_056
+session_id: T005_019 speaker_id: T005_057
+session_id: T005_019 speaker_id: T005_058
+session_id: T005_019 speaker_id: T005_059
+session_id: T005_019 speaker_id: T005_060
+session_id: T005_019 speaker_id: T005_061
+session_id: T005_019 speaker_id: T005_062
+session_id: T005_019 speaker_id: T005_063
+### session_id: T006_001 ###
+session_id: T006_001 speaker_id: T006_000
+session_id: T006_001 speaker_id: T006_001
+### session_id: T006_002 ###
+session_id: T006_002 speaker_id: T006_000
+session_id: T006_002 speaker_id: T006_002
+session_id: T006_002 speaker_id: T006_003
+### session_id: T006_003 ###
+session_id: T006_003 speaker_id: T006_000
+session_id: T006_003 speaker_id: T006_004
+session_id: T006_003 speaker_id: T006_013
+wav file not found: T006_013
+### session_id: T006_004 ###
+session_id: T006_004 speaker_id: T006_000
+session_id: T006_004 speaker_id: T006_002
+session_id: T006_004 speaker_id: T006_003
+session_id: T006_004 speaker_id: T006_005
+session_id: T006_004 speaker_id: T006_006
+session_id: T006_004 speaker_id: T006_014
+wav file not found: T006_014
+session_id: T006_004 speaker_id: T006_015
+wav file not found: T006_015
+### session_id: T006_005 ###
+session_id: T006_005 speaker_id: T006_000
+session_id: T006_005 speaker_id: T006_009
+### session_id: T006_006a ###
+session_id: T006_006a speaker_id: T006_000
+session_id: T006_006a speaker_id: T006_007
+session_id: T006_006a speaker_id: T006_008
+### session_id: T006_006b ###
+session_id: T006_006b speaker_id: T006_000
+session_id: T006_006b speaker_id: T006_007
+session_id: T006_006b speaker_id: T006_008
+### session_id: T006_008a ###
+session_id: T006_008a speaker_id: T006_000
+session_id: T006_008a speaker_id: T006_010
+session_id: T006_008a speaker_id: T006_011
+session_id: T006_008a speaker_id: T006_012
+session_id: T006_008a speaker_id: T006_016
+wav file not found: T006_016
+session_id: T006_008a speaker_id: T006_017
+wav file not found: T006_017
+### session_id: T006_008b ###
+session_id: T006_008b speaker_id: T006_000
+session_id: T006_008b speaker_id: T006_010
+session_id: T006_008b speaker_id: T006_011
+session_id: T006_008b speaker_id: T006_012
+### session_id: T006_009 ###
+session_id: T006_009 speaker_id: T006_000
+session_id: T006_009 speaker_id: T006_004
+session_id: T006_009 speaker_id: T006_018
+wav file not found: T006_018
+### session_id: T007_004 ###
+session_id: T007_004 speaker_id: T007_000
+session_id: T007_004 speaker_id: T007_005
+### session_id: T007_005a ###
+session_id: T007_005a speaker_id: T007_000
+wav file not found: T007_000
+session_id: T007_005a speaker_id: T007_007
+session_id: T007_005a speaker_id: T007_008
+### session_id: T007_005b ###
+session_id: T007_005b speaker_id: T007_000
+wav file not found: T007_000
+session_id: T007_005b speaker_id: T007_007
+session_id: T007_005b speaker_id: T007_008
+### session_id: T007_006 ###
+session_id: T007_006 speaker_id: T007_000
+session_id: T007_006 speaker_id: T007_003
+session_id: T007_006 speaker_id: T007_005
+### session_id: T007_007 ###
+session_id: T007_007 speaker_id: T007_000
+session_id: T007_007 speaker_id: T007_009
+session_id: T007_007 speaker_id: T007_010
+session_id: T007_007 speaker_id: T007_011
+session_id: T007_007 speaker_id: T007_012
+session_id: T007_007 speaker_id: T007_013
+session_id: T007_007 speaker_id: T007_014
+session_id: T007_007 speaker_id: T007_015
+session_id: T007_007 speaker_id: T007_016
+wav file not found: T007_016
+### session_id: T007_009 ###
+session_id: T007_009 speaker_id: T007_000
+session_id: T007_009 speaker_id: T007_023
+### session_id: T007_010 ###
+session_id: T007_010 speaker_id: T007_000
+session_id: T007_010 speaker_id: T007_001
+### session_id: T007_014a ###
+session_id: T007_014a speaker_id: T007_000
+session_id: T007_014a speaker_id: T007_001
+session_id: T007_014a speaker_id: T007_004
+session_id: T007_014a speaker_id: T007_006
+session_id: T007_014a speaker_id: T007_029
+wav file not found: T007_029
+### session_id: T007_014b ###
+session_id: T007_014b speaker_id: T007_000
+session_id: T007_014b speaker_id: T007_001
+session_id: T007_014b speaker_id: T007_004
+session_id: T007_014b speaker_id: T007_006
+session_id: T007_014b speaker_id: T007_029
+wav file not found: T007_029
+### session_id: T007_014c ###
+session_id: T007_014c speaker_id: T007_000
+session_id: T007_014c speaker_id: T007_001
+session_id: T007_014c speaker_id: T007_004
+session_id: T007_014c speaker_id: T007_006
+session_id: T007_014c speaker_id: T007_029
+wav file not found: T007_029
+### session_id: T007_015 ###
+session_id: T007_015 speaker_id: T007_000
+session_id: T007_015 speaker_id: T007_004
+session_id: T007_015 speaker_id: T007_006
+### session_id: T007_016a ###
+session_id: T007_016a speaker_id: T007_000
+session_id: T007_016a speaker_id: T007_017
+### session_id: T007_016b ###
+session_id: T007_016b speaker_id: T007_000
+session_id: T007_016b speaker_id: T007_017
+### session_id: T007_017 ###
+session_id: T007_017 speaker_id: T007_000
+session_id: T007_017 speaker_id: T007_009
+session_id: T007_017 speaker_id: T007_011
+session_id: T007_017 speaker_id: T007_012
+### session_id: T008_003 ###
+session_id: T008_003 speaker_id: T008_000
+session_id: T008_003 speaker_id: T008_001
+### session_id: T008_004 ###
+session_id: T008_004 speaker_id: T008_000
+session_id: T008_004 speaker_id: T008_001
+### session_id: T008_005a ###
+session_id: T008_005a speaker_id: T008_000
+session_id: T008_005a speaker_id: T008_003
+### session_id: T008_005b ###
+session_id: T008_005b speaker_id: T008_000
+session_id: T008_005b speaker_id: T008_003
+### session_id: T008_005c ###
+session_id: T008_005c speaker_id: T008_000
+session_id: T008_005c speaker_id: T008_003
+### session_id: T008_006 ###
+session_id: T008_006 speaker_id: T008_000
+session_id: T008_006 speaker_id: T008_001
+session_id: T008_006 speaker_id: T008_002
+session_id: T008_006 speaker_id: T008_004
+session_id: T008_006 speaker_id: T008_005
+session_id: T008_006 speaker_id: T008_006
+session_id: T008_006 speaker_id: T008_015
+wav file not found: T008_015
+### session_id: T008_008 ###
+session_id: T008_008 speaker_id: T008_000
+session_id: T008_008 speaker_id: T008_007
+### session_id: T008_009 ###
+session_id: T008_009 speaker_id: T008_000
+session_id: T008_009 speaker_id: T008_001
+### session_id: T008_010 ###
+session_id: T008_010 speaker_id: T008_000
+session_id: T008_010 speaker_id: T008_008
+session_id: T008_010 speaker_id: T008_016
+wav file not found: T008_016
+### session_id: T008_011 ###
+session_id: T008_011 speaker_id: T008_000
+session_id: T008_011 speaker_id: T008_003
+### session_id: T008_013 ###
+session_id: T008_013 speaker_id: T008_000
+session_id: T008_013 speaker_id: T008_001
+### session_id: T008_014a ###
+session_id: T008_014a speaker_id: T008_000
+session_id: T008_014a speaker_id: T008_010
+### session_id: T008_014b ###
+session_id: T008_014b speaker_id: T008_000
+session_id: T008_014b speaker_id: T008_010
+### session_id: T008_017a ###
+session_id: T008_017a speaker_id: T008_000
+session_id: T008_017a speaker_id: T008_011
+session_id: T008_017a speaker_id: T008_012
+### session_id: T008_017b ###
+session_id: T008_017b speaker_id: T008_000
+session_id: T008_017b speaker_id: T008_011
+session_id: T008_017b speaker_id: T008_012
+### session_id: T008_019a ###
+session_id: T008_019a speaker_id: T008_000
+session_id: T008_019a speaker_id: T008_013
+### session_id: T008_019b ###
+Warning: LUW and SUW are not matched: ズクリ vs. ◇ at ('IC05_江尻', 73.802, 79.708)
+session_id: T008_019b speaker_id: T008_000
+session_id: T008_019b speaker_id: T008_013
+### session_id: T008_020 ###
+session_id: T008_020 speaker_id: T008_000
+session_id: T008_020 speaker_id: T008_001
+### session_id: T008_021 ###
+session_id: T008_021 speaker_id: T008_000
+session_id: T008_021 speaker_id: T008_007
+### session_id: T008_022a ###
+session_id: T008_022a speaker_id: T008_000
+session_id: T008_022a speaker_id: T008_009
+### session_id: T008_022b ###
+session_id: T008_022b speaker_id: T008_000
+session_id: T008_022b speaker_id: T008_009
+### session_id: T008_022c ###
+session_id: T008_022c speaker_id: T008_000
+session_id: T008_022c speaker_id: T008_009
+### session_id: T009_001 ###
+session_id: T009_001 speaker_id: T009_000
+session_id: T009_001 speaker_id: T009_001
+### session_id: T009_002 ###
+session_id: T009_002 speaker_id: T009_000
+session_id: T009_002 speaker_id: T009_002
+### session_id: T009_003 ###
+session_id: T009_003 speaker_id: T009_000
+session_id: T009_003 speaker_id: T009_003
+session_id: T009_003 speaker_id: T009_025
+wav file not found: T009_025
+### session_id: T009_004 ###
+session_id: T009_004 speaker_id: T009_000
+session_id: T009_004 speaker_id: T009_011
+session_id: T009_004 speaker_id: T009_012
+session_id: T009_004 speaker_id: T009_013
+session_id: T009_004 speaker_id: T009_014
+### session_id: T009_005a ###
+session_id: T009_005a speaker_id: T009_000
+session_id: T009_005a speaker_id: T009_015
+### session_id: T009_005b ###
+session_id: T009_005b speaker_id: T009_000
+session_id: T009_005b speaker_id: T009_015
+### session_id: T009_006 ###
+session_id: T009_006 speaker_id: T009_000
+session_id: T009_006 speaker_id: T009_004
+session_id: T009_006 speaker_id: T009_005
+session_id: T009_006 speaker_id: T009_006
+session_id: T009_006 speaker_id: T009_007
+session_id: T009_006 speaker_id: T009_008
+session_id: T009_006 speaker_id: T009_009
+session_id: T009_006 speaker_id: T009_010
+session_id: T009_006 speaker_id: T009_016
+### session_id: T009_008a ###
+session_id: T009_008a speaker_id: T009_000
+session_id: T009_008a speaker_id: T009_004
+session_id: T009_008a speaker_id: T009_005
+session_id: T009_008a speaker_id: T009_006
+session_id: T009_008a speaker_id: T009_007
+session_id: T009_008a speaker_id: T009_008
+session_id: T009_008a speaker_id: T009_009
+session_id: T009_008a speaker_id: T009_010
+session_id: T009_008a speaker_id: T009_016
+### session_id: T009_008b ###
+session_id: T009_008b speaker_id: T009_000
+session_id: T009_008b speaker_id: T009_004
+session_id: T009_008b speaker_id: T009_005
+session_id: T009_008b speaker_id: T009_006
+session_id: T009_008b speaker_id: T009_007
+session_id: T009_008b speaker_id: T009_008
+session_id: T009_008b speaker_id: T009_009
+session_id: T009_008b speaker_id: T009_010
+session_id: T009_008b speaker_id: T009_016
+### session_id: T009_010 ###
+session_id: T009_010 speaker_id: T009_000
+session_id: T009_010 speaker_id: T009_001
+session_id: T009_010 speaker_id: T009_002
+session_id: T009_010 speaker_id: T009_017
+### session_id: T009_011a ###
+session_id: T009_011a speaker_id: T009_000
+session_id: T009_011a speaker_id: T009_011
+session_id: T009_011a speaker_id: T009_012
+session_id: T009_011a speaker_id: T009_013
+session_id: T009_011a speaker_id: T009_026
+wav file not found: T009_026
+### session_id: T009_011b ###
+session_id: T009_011b speaker_id: T009_000
+session_id: T009_011b speaker_id: T009_011
+session_id: T009_011b speaker_id: T009_012
+session_id: T009_011b speaker_id: T009_013
+### session_id: T009_014a ###
+session_id: T009_014a speaker_id: T009_000
+session_id: T009_014a speaker_id: T009_003
+session_id: T009_014a speaker_id: T009_015
+session_id: T009_014a speaker_id: T009_018
+### session_id: T009_014b ###
+session_id: T009_014b speaker_id: T009_000
+session_id: T009_014b speaker_id: T009_003
+session_id: T009_014b speaker_id: T009_015
+session_id: T009_014b speaker_id: T009_018
+session_id: T009_014b speaker_id: T009_027
+wav file not found: T009_027
+### session_id: T009_015 ###
+session_id: T009_015 speaker_id: T009_000
+session_id: T009_015 speaker_id: T009_002
+session_id: T009_015 speaker_id: T009_028
+wav file not found: T009_028
+### session_id: T009_017 ###
+session_id: T009_017 speaker_id: T009_000
+session_id: T009_017 speaker_id: T009_003
+### session_id: T009_018 ###
+session_id: T009_018 speaker_id: T009_000
+session_id: T009_018 speaker_id: T009_002
+wav file not found: T009_002
+session_id: T009_018 speaker_id: T009_017
+### session_id: T009_020 ###
+session_id: T009_020 speaker_id: T009_000
+session_id: T009_020 speaker_id: T009_001
+session_id: T009_020 speaker_id: T009_002
+session_id: T009_020 speaker_id: T009_017
+session_id: T009_020 speaker_id: T009_021
+session_id: T009_020 speaker_id: T009_022
+### session_id: T009_021a ###
+session_id: T009_021a speaker_id: T009_000
+session_id: T009_021a speaker_id: T009_023
+### session_id: T009_021b ###
+session_id: T009_021b speaker_id: T009_000
+session_id: T009_021b speaker_id: T009_023
+### session_id: T009_022 ###
+session_id: T009_022 speaker_id: T009_000
+session_id: T009_022 speaker_id: T009_024
+session_id: T009_022 speaker_id: T009_029
+wav file not found: T009_029
+session_id: T009_022 speaker_id: T009_030
+wav file not found: T009_030
+session_id: T009_022 speaker_id: T009_031
+wav file not found: T009_031
+### session_id: T010_002a ###
+session_id: T010_002a speaker_id: T010_000
+session_id: T010_002a speaker_id: T010_001
+### session_id: T010_002b ###
+session_id: T010_002b speaker_id: T010_000
+session_id: T010_002b speaker_id: T010_001
+### session_id: T010_003 ###
+session_id: T010_003 speaker_id: T010_000
+session_id: T010_003 speaker_id: T010_001
+session_id: T010_003 speaker_id: T010_002
+### session_id: T010_004 ###
+session_id: T010_004 speaker_id: T010_000
+session_id: T010_004 speaker_id: T010_003
+session_id: T010_004 speaker_id: T010_004
+### session_id: T010_005 ###
+session_id: T010_005 speaker_id: T010_000
+session_id: T010_005 speaker_id: T010_005
+### session_id: T010_006a ###
+session_id: T010_006a speaker_id: T010_000
+session_id: T010_006a speaker_id: T010_001
+session_id: T010_006a speaker_id: T010_002
+session_id: T010_006a speaker_id: T010_006
+### session_id: T010_006b ###
+session_id: T010_006b speaker_id: T010_000
+session_id: T010_006b speaker_id: T010_001
+session_id: T010_006b speaker_id: T010_002
+session_id: T010_006b speaker_id: T010_006
+### session_id: T010_007 ###
+session_id: T010_007 speaker_id: T010_000
+session_id: T010_007 speaker_id: T010_007
+session_id: T010_007 speaker_id: T010_010
+wav file not found: T010_010
+session_id: T010_007 speaker_id: T010_011
+wav file not found: T010_011
+### session_id: T010_009 ###
+session_id: T010_009 speaker_id: T010_000
+session_id: T010_009 speaker_id: T010_008
+### session_id: T010_013 ###
+session_id: T010_013 speaker_id: T010_000
+session_id: T010_013 speaker_id: T010_009
+### session_id: T011_005 ###
+session_id: T011_005 speaker_id: T011_000
+session_id: T011_005 speaker_id: T011_001
+session_id: T011_005 speaker_id: T011_002
+session_id: T011_005 speaker_id: T011_003
+### session_id: T011_007 ###
+session_id: T011_007 speaker_id: T011_000
+session_id: T011_007 speaker_id: T011_004
+session_id: T011_007 speaker_id: T011_005
+session_id: T011_007 speaker_id: T011_020
+wav file not found: T011_020
+### session_id: T011_008 ###
+session_id: T011_008 speaker_id: T011_000
+session_id: T011_008 speaker_id: T011_001
+session_id: T011_008 speaker_id: T011_002
+session_id: T011_008 speaker_id: T011_003
+### session_id: T011_009 ###
+session_id: T011_009 speaker_id: T011_000
+session_id: T011_009 speaker_id: T011_001
+session_id: T011_009 speaker_id: T011_003
+### session_id: T011_012 ###
+session_id: T011_012 speaker_id: T011_000
+session_id: T011_012 speaker_id: T011_001
+session_id: T011_012 speaker_id: T011_002
+session_id: T011_012 speaker_id: T011_003
+### session_id: T011_013 ###
+session_id: T011_013 speaker_id: T011_000
+session_id: T011_013 speaker_id: T011_001
+session_id: T011_013 speaker_id: T011_002
+session_id: T011_013 speaker_id: T011_003
+### session_id: T011_014 ###
+session_id: T011_014 speaker_id: T011_000
+session_id: T011_014 speaker_id: T011_001
+session_id: T011_014 speaker_id: T011_002
+wav file not found: T011_002
+session_id: T011_014 speaker_id: T011_003
+wav file not found: T011_003
+session_id: T011_014 speaker_id: T011_006
+session_id: T011_014 speaker_id: T011_007
+session_id: T011_014 speaker_id: T011_008
+session_id: T011_014 speaker_id: T011_009
+session_id: T011_014 speaker_id: T011_010
+wav file not found: T011_010
+session_id: T011_014 speaker_id: T011_011
+wav file not found: T011_011
+session_id: T011_014 speaker_id: T011_012
+wav file not found: T011_012
+session_id: T011_014 speaker_id: T011_013
+wav file not found: T011_013
+### session_id: T011_015 ###
+session_id: T011_015 speaker_id: T011_000
+session_id: T011_015 speaker_id: T011_001
+session_id: T011_015 speaker_id: T011_002
+session_id: T011_015 speaker_id: T011_003
+### session_id: T011_017 ###
+session_id: T011_017 speaker_id: T011_000
+session_id: T011_017 speaker_id: T011_014
+session_id: T011_017 speaker_id: T011_015
+session_id: T011_017 speaker_id: T011_016
+session_id: T011_017 speaker_id: T011_017
+session_id: T011_017 speaker_id: T011_021
+wav file not found: T011_021
+session_id: T011_017 speaker_id: T011_022
+wav file not found: T011_022
+### session_id: T011_019 ###
+session_id: T011_019 speaker_id: T011_000
+session_id: T011_019 speaker_id: T011_002
+session_id: T011_019 speaker_id: T011_018
+session_id: T011_019 speaker_id: T011_019
+session_id: T011_019 speaker_id: T011_023
+wav file not found: T011_023
+### session_id: T013_001 ###
+session_id: T013_001 speaker_id: T013_000
+session_id: T013_001 speaker_id: T013_001
+### session_id: T013_003 ###
+session_id: T013_003 speaker_id: T013_000
+session_id: T013_003 speaker_id: T013_001
+### session_id: T013_004 ###
+session_id: T013_004 speaker_id: T013_000
+session_id: T013_004 speaker_id: T013_002
+session_id: T013_004 speaker_id: T013_003
+session_id: T013_004 speaker_id: T013_004
+session_id: T013_004 speaker_id: T013_031
+wav file not found: T013_031
+### session_id: T013_005 ###
+session_id: T013_005 speaker_id: T013_000
+session_id: T013_005 speaker_id: T013_001
+### session_id: T013_006 ###
+session_id: T013_006 speaker_id: T013_000
+session_id: T013_006 speaker_id: T013_005
+session_id: T013_006 speaker_id: T013_006
+session_id: T013_006 speaker_id: T013_007
+session_id: T013_006 speaker_id: T013_008
+session_id: T013_006 speaker_id: T013_009
+### session_id: T013_007 ###
+session_id: T013_007 speaker_id: T013_000
+session_id: T013_007 speaker_id: T013_001
+### session_id: T013_008 ###
+session_id: T013_008 speaker_id: T013_000
+session_id: T013_008 speaker_id: T013_010
+session_id: T013_008 speaker_id: T013_015
+### session_id: T013_009 ###
+session_id: T013_009 speaker_id: T013_000
+session_id: T013_009 speaker_id: T013_001
+session_id: T013_009 speaker_id: T013_014
+session_id: T013_009 speaker_id: T013_015
+### session_id: T013_013 ###
+session_id: T013_013 speaker_id: T013_000
+session_id: T013_013 speaker_id: T013_002
+session_id: T013_013 speaker_id: T013_003
+session_id: T013_013 speaker_id: T013_004
+### session_id: T013_014a ###
+session_id: T013_014a speaker_id: T013_000
+session_id: T013_014a speaker_id: T013_002
+session_id: T013_014a speaker_id: T013_003
+session_id: T013_014a speaker_id: T013_004
+session_id: T013_014a speaker_id: T013_025
+wav file not found: T013_025
+session_id: T013_014a speaker_id: T013_026
+wav file not found: T013_026
+### session_id: T013_014b ###
+session_id: T013_014b speaker_id: T013_000
+session_id: T013_014b speaker_id: T013_002
+session_id: T013_014b speaker_id: T013_003
+session_id: T013_014b speaker_id: T013_004
+session_id: T013_014b speaker_id: T013_025
+wav file not found: T013_025
+### session_id: T013_014c ###
+session_id: T013_014c speaker_id: T013_000
+session_id: T013_014c speaker_id: T013_002
+session_id: T013_014c speaker_id: T013_003
+session_id: T013_014c speaker_id: T013_004
+### session_id: T013_015 ###
+session_id: T013_015 speaker_id: T013_000
+session_id: T013_015 speaker_id: T013_017
+session_id: T013_015 speaker_id: T013_018
+session_id: T013_015 speaker_id: T013_032
+wav file not found: T013_032
+### session_id: T013_017 ###
+session_id: T013_017 speaker_id: T013_000
+session_id: T013_017 speaker_id: T013_019
+session_id: T013_017 speaker_id: T013_027
+wav file not found: T013_027
+session_id: T013_017 speaker_id: T013_028
+wav file not found: T013_028
+### session_id: T013_018 ###
+Warning: LUW and SUW are not matched: (キクー) vs. キクー at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. キクー at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. キクー at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ナッ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ナッ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. テル at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. テル at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ン at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. デー at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. デー at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ウン at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ウン at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. デス at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. デス at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ヨ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+Warning: LUW and SUW are not matched: (キクー) vs. ハバヒロイ at ('IC02_内藤', 1607.367, 1616.71)
+session_id: T013_018 speaker_id: T013_000
+session_id: T013_018 speaker_id: T013_019
+session_id: T013_018 speaker_id: T013_029
+wav file not found: T013_029
+### session_id: T013_020 ###
+session_id: T013_020 speaker_id: T013_000
+session_id: T013_020 speaker_id: T013_023
+### session_id: T013_021 ###
+session_id: T013_021 speaker_id: T013_000
+session_id: T013_021 speaker_id: T013_022
+session_id: T013_021 speaker_id: T013_030
+wav file not found: T013_030
+### session_id: T014_001a ###
+session_id: T014_001a speaker_id: T014_000
+session_id: T014_001a speaker_id: T014_001
+### session_id: T014_001b ###
+session_id: T014_001b speaker_id: T014_000
+session_id: T014_001b speaker_id: T014_001
+### session_id: T014_005a ###
+session_id: T014_005a speaker_id: T014_000
+session_id: T014_005a speaker_id: T014_001
+### session_id: T014_005b ###
+session_id: T014_005b speaker_id: T014_000
+session_id: T014_005b speaker_id: T014_001
+### session_id: T014_005c ###
+session_id: T014_005c speaker_id: T014_000
+session_id: T014_005c speaker_id: T014_001
+### session_id: T014_006 ###
+session_id: T014_006 speaker_id: T014_000
+session_id: T014_006 speaker_id: T014_002
+session_id: T014_006 speaker_id: T014_004
+### session_id: T014_008 ###
+session_id: T014_008 speaker_id: T014_000
+session_id: T014_008 speaker_id: T014_003
+### session_id: T014_010a ###
+session_id: T014_010a speaker_id: T014_000
+session_id: T014_010a speaker_id: T014_005
+### session_id: T014_010b ###
+session_id: T014_010b speaker_id: T014_000
+session_id: T014_010b speaker_id: T014_005
+### session_id: T014_011a ###
+session_id: T014_011a speaker_id: T014_000
+session_id: T014_011a speaker_id: T014_006
+### session_id: T014_011b ###
+session_id: T014_011b speaker_id: T014_000
+session_id: T014_011b speaker_id: T014_006
+### session_id: T014_012 ###
+session_id: T014_012 speaker_id: T014_000
+session_id: T014_012 speaker_id: T014_007
+### session_id: T014_014a ###
+session_id: T014_014a speaker_id: T014_000
+session_id: T014_014a speaker_id: T014_002
+session_id: T014_014a speaker_id: T014_004
+### session_id: T014_014b ###
+session_id: T014_014b speaker_id: T014_000
+session_id: T014_014b speaker_id: T014_002
+session_id: T014_014b speaker_id: T014_004
+### session_id: T014_016 ###
+session_id: T014_016 speaker_id: T014_000
+session_id: T014_016 speaker_id: T014_008
+session_id: T014_016 speaker_id: T014_014
+wav file not found: T014_014
+### session_id: T014_018 ###
+session_id: T014_018 speaker_id: T014_000
+session_id: T014_018 speaker_id: T014_010
+### session_id: T014_021 ###
+session_id: T014_021 speaker_id: T014_000
+session_id: T014_021 speaker_id: T014_002
+session_id: T014_021 speaker_id: T014_004
+### session_id: T015_001 ###
+session_id: T015_001 speaker_id: T015_000
+session_id: T015_001 speaker_id: T015_001
+session_id: T015_001 speaker_id: T015_002
+session_id: T015_001 speaker_id: T015_003
+session_id: T015_001 speaker_id: T015_044
+wav file not found: T015_044
+### session_id: T015_003 ###
+session_id: T015_003 speaker_id: T015_000
+session_id: T015_003 speaker_id: T015_006
+### session_id: T015_004 ###
+session_id: T015_004 speaker_id: T015_000
+session_id: T015_004 speaker_id: T015_004
+session_id: T015_004 speaker_id: T015_005
+session_id: T015_004 speaker_id: T015_007
+### session_id: T015_005 ###
+session_id: T015_005 speaker_id: T015_000
+session_id: T015_005 speaker_id: T015_001
+session_id: T015_005 speaker_id: T015_008
+session_id: T015_005 speaker_id: T015_052
+wav file not found: T015_052
+### session_id: T015_006 ###
+session_id: T015_006 speaker_id: T015_000
+session_id: T015_006 speaker_id: T015_001
+session_id: T015_006 speaker_id: T015_002
+session_id: T015_006 speaker_id: T015_003
+session_id: T015_006 speaker_id: T015_010
+session_id: T015_006 speaker_id: T015_046
+wav file not found: T015_046
+### session_id: T015_007 ###
+session_id: T015_007 speaker_id: T015_000
+session_id: T015_007 speaker_id: T015_011
+session_id: T015_007 speaker_id: T015_012
+### session_id: T015_008a ###
+session_id: T015_008a speaker_id: T015_000
+session_id: T015_008a speaker_id: T015_013
+### session_id: T015_008b ###
+session_id: T015_008b speaker_id: T015_000
+session_id: T015_008b speaker_id: T015_013
+### session_id: T015_010 ###
+session_id: T015_010 speaker_id: T015_000
+session_id: T015_010 speaker_id: T015_018
+### session_id: T015_011 ###
+session_id: T015_011 speaker_id: T015_000
+session_id: T015_011 speaker_id: T015_019
+session_id: T015_011 speaker_id: T015_020
+### session_id: T015_012a ###
+session_id: T015_012a speaker_id: T015_000
+session_id: T015_012a speaker_id: T015_021
+### session_id: T015_012b ###
+session_id: T015_012b speaker_id: T015_000
+session_id: T015_012b speaker_id: T015_021
+session_id: T015_012b speaker_id: T015_049
+wav file not found: T015_049
+### session_id: T015_014 ###
+session_id: T015_014 speaker_id: T015_000
+session_id: T015_014 speaker_id: T015_028
+session_id: T015_014 speaker_id: T015_050
+wav file not found: T015_050
+### session_id: T015_015 ###
+session_id: T015_015 speaker_id: T015_000
+session_id: T015_015 speaker_id: T015_019
+session_id: T015_015 speaker_id: T015_029
+session_id: T015_015 speaker_id: T015_030
+session_id: T015_015 speaker_id: T015_031
+session_id: T015_015 speaker_id: T015_033
+session_id: T015_015 speaker_id: T015_034
+wav file not found: T015_034
+### session_id: T015_017 ###
+session_id: T015_017 speaker_id: T015_000
+session_id: T015_017 speaker_id: T015_001
+session_id: T015_017 speaker_id: T015_039
+session_id: T015_017 speaker_id: T015_040
+session_id: T015_017 speaker_id: T015_051
+wav file not found: T015_051
+### session_id: T015_018 ###
+session_id: T015_018 speaker_id: T015_000
+session_id: T015_018 speaker_id: T015_021
+session_id: T015_018 speaker_id: T015_041
+session_id: T015_018 speaker_id: T015_042
+### session_id: T015_019 ###
+session_id: T015_019 speaker_id: T015_000
+session_id: T015_019 speaker_id: T015_043
+session_id: T015_019 speaker_id: T015_044
+### session_id: T016_001 ###
+session_id: T016_001 speaker_id: T016_000
+session_id: T016_001 speaker_id: T016_001
+session_id: T016_001 speaker_id: T016_002
+session_id: T016_001 speaker_id: T016_003
+session_id: T016_001 speaker_id: T016_004
+### session_id: T016_002 ###
+session_id: T016_002 speaker_id: T016_000
+session_id: T016_002 speaker_id: T016_001
+session_id: T016_002 speaker_id: T016_002
+session_id: T016_002 speaker_id: T016_004
+### session_id: T016_003 ###
+session_id: T016_003 speaker_id: T016_000
+session_id: T016_003 speaker_id: T016_001
+### session_id: T016_004a ###
+session_id: T016_004a speaker_id: T016_000
+session_id: T016_004a speaker_id: T016_001
+session_id: T016_004a speaker_id: T016_002
+session_id: T016_004a speaker_id: T016_003
+session_id: T016_004a speaker_id: T016_004
+### session_id: T016_004b ###
+session_id: T016_004b speaker_id: T016_000
+session_id: T016_004b speaker_id: T016_001
+session_id: T016_004b speaker_id: T016_002
+session_id: T016_004b speaker_id: T016_003
+session_id: T016_004b speaker_id: T016_004
+### session_id: T016_005 ###
+session_id: T016_005 speaker_id: T016_000
+session_id: T016_005 speaker_id: T016_003
+### session_id: T016_006a ###
+session_id: T016_006a speaker_id: T016_000
+session_id: T016_006a speaker_id: T016_001
+### session_id: T016_006b ###
+session_id: T016_006b speaker_id: T016_000
+session_id: T016_006b speaker_id: T016_001
+### session_id: T016_007 ###
+session_id: T016_007 speaker_id: T016_000
+session_id: T016_007 speaker_id: T016_001
+session_id: T016_007 speaker_id: T016_002
+session_id: T016_007 speaker_id: T016_003
+session_id: T016_007 speaker_id: T016_004
+### session_id: T016_008 ###
+session_id: T016_008 speaker_id: T016_000
+session_id: T016_008 speaker_id: T016_005
+wav file not found: T016_005
+### session_id: T017_004 ###
+session_id: T017_004 speaker_id: T017_000
+session_id: T017_004 speaker_id: T017_003
+wav file not found: T017_003
+session_id: T017_004 speaker_id: T017_011
+wav file not found: T017_011
+session_id: T017_004 speaker_id: T017_019
+wav file not found: T017_019
+### session_id: T017_005a ###
+session_id: T017_005a speaker_id: T017_000
+session_id: T017_005a speaker_id: T017_002
+session_id: T017_005a speaker_id: T017_004
+session_id: T017_005a speaker_id: T017_005
+session_id: T017_005a speaker_id: T017_020
+wav file not found: T017_020
+session_id: T017_005a speaker_id: T017_021
+wav file not found: T017_021
+### session_id: T017_005b ###
+session_id: T017_005b speaker_id: T017_000
+session_id: T017_005b speaker_id: T017_002
+session_id: T017_005b speaker_id: T017_004
+session_id: T017_005b speaker_id: T017_005
+session_id: T017_005b speaker_id: T017_020
+wav file not found: T017_020
+### session_id: T017_005c ###
+session_id: T017_005c speaker_id: T017_000
+session_id: T017_005c speaker_id: T017_002
+session_id: T017_005c speaker_id: T017_004
+session_id: T017_005c speaker_id: T017_005
+### session_id: T017_006 ###
+session_id: T017_006 speaker_id: T017_000
+session_id: T017_006 speaker_id: T017_006
+### session_id: T017_008 ###
+session_id: T017_008 speaker_id: T017_000
+session_id: T017_008 speaker_id: T017_008
+session_id: T017_008 speaker_id: T017_009
+session_id: T017_008 speaker_id: T017_024
+wav file not found: T017_024
+### session_id: T017_011a ###
+session_id: T017_011a speaker_id: T017_000
+wav file not found: T017_000
+session_id: T017_011a speaker_id: T017_012
+### session_id: T017_011b ###
+session_id: T017_011b speaker_id: T017_000
+wav file not found: T017_000
+session_id: T017_011b speaker_id: T017_012
+### session_id: T017_012 ###
+session_id: T017_012 speaker_id: T017_000
+session_id: T017_012 speaker_id: T017_013
+### session_id: T017_016 ###
+session_id: T017_016 speaker_id: T017_000
+session_id: T017_016 speaker_id: T017_016
+### session_id: T017_017 ###
+session_id: T017_017 speaker_id: T017_000
+session_id: T017_017 speaker_id: T017_016
+session_id: T017_017 speaker_id: T017_023
+wav file not found: T017_023
+### session_id: T017_018 ###
+session_id: T017_018 speaker_id: T017_000
+session_id: T017_018 speaker_id: T017_018
+### session_id: T018_001 ###
+session_id: T018_001 speaker_id: T018_000
+session_id: T018_001 speaker_id: T018_001
+session_id: T018_001 speaker_id: T018_002
+### session_id: T018_004 ###
+session_id: T018_004 speaker_id: T018_000
+wav file not found: T018_000
+session_id: T018_004 speaker_id: T018_001
+session_id: T018_004 speaker_id: T018_015
+wav file not found: T018_015
+### session_id: T018_005 ###
+session_id: T018_005 speaker_id: T018_000
+session_id: T018_005 speaker_id: T018_001
+session_id: T018_005 speaker_id: T018_002
+wav file not found: T018_002
+session_id: T018_005 speaker_id: T018_003
+### session_id: T018_006a ###
+session_id: T018_006a speaker_id: T018_000
+session_id: T018_006a speaker_id: T018_002
+session_id: T018_006a speaker_id: T018_004
+### session_id: T018_006b ###
+session_id: T018_006b speaker_id: T018_000
+session_id: T018_006b speaker_id: T018_002
+session_id: T018_006b speaker_id: T018_004
+### session_id: T018_014 ###
+session_id: T018_014 speaker_id: T018_000
+session_id: T018_014 speaker_id: T018_009
+wav file not found: T018_009
+session_id: T018_014 speaker_id: T018_011
+session_id: T018_014 speaker_id: T018_012
+### session_id: T018_017 ###
+session_id: T018_017 speaker_id: T018_000
+session_id: T018_017 speaker_id: T018_014
+### session_id: T018_021 ###
+session_id: T018_021 speaker_id: T018_000
+session_id: T018_021 speaker_id: T018_010
+### session_id: T018_022 ###
+session_id: T018_022 speaker_id: T018_000
+session_id: T018_022 speaker_id: T018_013
+### session_id: T019_002 ###
+session_id: T019_002 speaker_id: T019_000
+session_id: T019_002 speaker_id: T019_001
+session_id: T019_002 speaker_id: T019_002
+session_id: T019_002 speaker_id: T019_003
+### session_id: T019_004 ###
+session_id: T019_004 speaker_id: T019_000
+wav file not found: T019_000
+session_id: T019_004 speaker_id: T019_001
+wav file not found: T019_001
+session_id: T019_004 speaker_id: T019_002
+wav file not found: T019_002
+session_id: T019_004 speaker_id: T019_003
+wav file not found: T019_003
+session_id: T019_004 speaker_id: T019_004
+wav file not found: T019_004
+session_id: T019_004 speaker_id: T019_005
+session_id: T019_004 speaker_id: T019_006
+wav file not found: T019_006
+session_id: T019_004 speaker_id: T019_007
+wav file not found: T019_007
+session_id: T019_004 speaker_id: T019_008
+session_id: T019_004 speaker_id: T019_009
+### session_id: T019_005a ###
+session_id: T019_005a speaker_id: T019_000
+session_id: T019_005a speaker_id: T019_010
+session_id: T019_005a speaker_id: T019_011
+session_id: T019_005a speaker_id: T019_012
+session_id: T019_005a speaker_id: T019_013
+### session_id: T019_005b ###
+session_id: T019_005b speaker_id: T019_000
+session_id: T019_005b speaker_id: T019_010
+session_id: T019_005b speaker_id: T019_011
+session_id: T019_005b speaker_id: T019_012
+session_id: T019_005b speaker_id: T019_013
+### session_id: T019_008a ###
+session_id: T019_008a speaker_id: T019_000
+session_id: T019_008a speaker_id: T019_014
+### session_id: T019_008b ###
+session_id: T019_008b speaker_id: T019_000
+session_id: T019_008b speaker_id: T019_014
+### session_id: T019_010 ###
+session_id: T019_010 speaker_id: T019_000
+session_id: T019_010 speaker_id: T019_001
+session_id: T019_010 speaker_id: T019_002
+session_id: T019_010 speaker_id: T019_003
+### session_id: T019_011a ###
+session_id: T019_011a speaker_id: T019_000
+session_id: T019_011a speaker_id: T019_001
+### session_id: T019_011b ###
+session_id: T019_011b speaker_id: T019_000
+session_id: T019_011b speaker_id: T019_001
+### session_id: T019_015 ###
+session_id: T019_015 speaker_id: T019_000
+session_id: T019_015 speaker_id: T019_001
+session_id: T019_015 speaker_id: T019_002
+session_id: T019_015 speaker_id: T019_003
+### session_id: T019_016 ###
+session_id: T019_016 speaker_id: T019_000
+session_id: T019_016 speaker_id: T019_002
+### session_id: T020_001 ###
+session_id: T020_001 speaker_id: T020_000
+session_id: T020_001 speaker_id: T020_001
+session_id: T020_001 speaker_id: T020_002
+session_id: T020_001 speaker_id: T020_003
+### session_id: T020_003 ###
+session_id: T020_003 speaker_id: T020_000
+session_id: T020_003 speaker_id: T020_005
+### session_id: T020_004 ###
+session_id: T020_004 speaker_id: T020_000
+session_id: T020_004 speaker_id: T020_004
+session_id: T020_004 speaker_id: T020_006
+session_id: T020_004 speaker_id: T020_021
+wav file not found: T020_021
+session_id: T020_004 speaker_id: T020_023
+wav file not found: T020_023
+session_id: T020_004 speaker_id: T020_026
+wav file not found: T020_026
+### session_id: T020_006 ###
+session_id: T020_006 speaker_id: T020_000
+session_id: T020_006 speaker_id: T020_009
+### session_id: T020_007 ###
+session_id: T020_007 speaker_id: T020_000
+session_id: T020_007 speaker_id: T020_014
+session_id: T020_007 speaker_id: T020_037
+wav file not found: T020_037
+### session_id: T020_008 ###
+session_id: T020_008 speaker_id: T020_000
+session_id: T020_008 speaker_id: T020_010
+session_id: T020_008 speaker_id: T020_028
+wav file not found: T020_028
+session_id: T020_008 speaker_id: T020_029
+wav file not found: T020_029
+session_id: T020_008 speaker_id: T020_030
+wav file not found: T020_030
+### session_id: T020_009 ###
+session_id: T020_009 speaker_id: T020_000
+session_id: T020_009 speaker_id: T020_010
+### session_id: T020_010a ###
+session_id: T020_010a speaker_id: T020_000
+session_id: T020_010a speaker_id: T020_011
+### session_id: T020_010b ###
+session_id: T020_010b speaker_id: T020_000
+session_id: T020_010b speaker_id: T020_011
+### session_id: T020_010c ###
+session_id: T020_010c speaker_id: T020_000
+session_id: T020_010c speaker_id: T020_011
+### session_id: T020_010d ###
+session_id: T020_010d speaker_id: T020_000
+session_id: T020_010d speaker_id: T020_002
+wav file not found: T020_002
+session_id: T020_010d speaker_id: T020_008
+wav file not found: T020_008
+session_id: T020_010d speaker_id: T020_011
+### session_id: T020_011 ###
+session_id: T020_011 speaker_id: T020_000
+session_id: T020_011 speaker_id: T020_001
+session_id: T020_011 speaker_id: T020_002
+session_id: T020_011 speaker_id: T020_003
+wav file not found: T020_003
+session_id: T020_011 speaker_id: T020_007
+session_id: T020_011 speaker_id: T020_008
+wav file not found: T020_008
+session_id: T020_011 speaker_id: T020_011
+### session_id: T020_012 ###
+session_id: T020_012 speaker_id: T020_000
+session_id: T020_012 speaker_id: T020_001
+session_id: T020_012 speaker_id: T020_002
+wav file not found: T020_002
+session_id: T020_012 speaker_id: T020_003
+### session_id: T020_013a ###
+session_id: T020_013a speaker_id: T020_000
+session_id: T020_013a speaker_id: T020_001
+session_id: T020_013a speaker_id: T020_003
+wav file not found: T020_003
+### session_id: T020_013b ###
+session_id: T020_013b speaker_id: T020_000
+session_id: T020_013b speaker_id: T020_001
+session_id: T020_013b speaker_id: T020_003
+wav file not found: T020_003
+### session_id: T020_020a ###
+session_id: T020_020a speaker_id: T020_000
+session_id: T020_020a speaker_id: T020_004
+session_id: T020_020a speaker_id: T020_006
+wav file not found: T020_006
+session_id: T020_020a speaker_id: T020_014
+session_id: T020_020a speaker_id: T020_021
+wav file not found: T020_021
+session_id: T020_020a speaker_id: T020_024
+wav file not found: T020_024
+session_id: T020_020a speaker_id: T020_031
+wav file not found: T020_031
+session_id: T020_020a speaker_id: T020_033
+wav file not found: T020_033
+session_id: T020_020a speaker_id: T020_036
+wav file not found: T020_036
+### session_id: T020_020b ###
+session_id: T020_020b speaker_id: T020_000
+session_id: T020_020b speaker_id: T020_004
+session_id: T020_020b speaker_id: T020_006
+wav file not found: T020_006
+session_id: T020_020b speaker_id: T020_014
+session_id: T020_020b speaker_id: T020_021
+wav file not found: T020_021
+session_id: T020_020b speaker_id: T020_024
+wav file not found: T020_024
+session_id: T020_020b speaker_id: T020_031
+wav file not found: T020_031
+session_id: T020_020b speaker_id: T020_033
+wav file not found: T020_033
+session_id: T020_020b speaker_id: T020_036
+wav file not found: T020_036
+### session_id: T020_021 ###
+session_id: T020_021 speaker_id: T020_000
+session_id: T020_021 speaker_id: T020_005
+wav file not found: T020_005
+session_id: T020_021 speaker_id: T020_010
+wav file not found: T020_010
+session_id: T020_021 speaker_id: T020_018
+session_id: T020_021 speaker_id: T020_019
+session_id: T020_021 speaker_id: T020_023
+wav file not found: T020_023
+session_id: T020_021 speaker_id: T020_032
+### session_id: T020_022a ###
+session_id: T020_022a speaker_id: T020_000
+session_id: T020_022a speaker_id: T020_020
+### session_id: T020_022b ###
+session_id: T020_022b speaker_id: T020_000
+session_id: T020_022b speaker_id: T020_020
+### session_id: T020_022c ###
+session_id: T020_022c speaker_id: T020_000
+session_id: T020_022c speaker_id: T020_020
+### session_id: T020_022d ###
+session_id: T020_022d speaker_id: T020_000
+session_id: T020_022d speaker_id: T020_020
+### session_id: T020_025 ###
+session_id: T020_025 speaker_id: T020_000
+session_id: T020_025 speaker_id: T020_004
+session_id: T020_025 speaker_id: T020_021
+wav file not found: T020_021
+session_id: T020_025 speaker_id: T020_022
+session_id: T020_025 speaker_id: T020_023
+wav file not found: T020_023
+session_id: T020_025 speaker_id: T020_033
+session_id: T020_025 speaker_id: T020_034
+wav file not found: T020_034
+session_id: T020_025 speaker_id: T020_035
+wav file not found: T020_035
+### session_id: T021_002 ###
+session_id: T021_002 speaker_id: T021_000
+session_id: T021_002 speaker_id: T021_001
+### session_id: T021_003 ###
+session_id: T021_003 speaker_id: T021_000
+session_id: T021_003 speaker_id: T021_003
+### session_id: T021_005 ###
+session_id: T021_005 speaker_id: T021_000
+session_id: T021_005 speaker_id: T021_005
+### session_id: T021_006 ###
+session_id: T021_006 speaker_id: T021_000
+session_id: T021_006 speaker_id: T021_014
+session_id: T021_006 speaker_id: T021_022
+wav file not found: T021_022
+### session_id: T021_007 ###
+session_id: T021_007 speaker_id: T021_000
+session_id: T021_007 speaker_id: T021_006
+### session_id: T021_008 ###
+session_id: T021_008 speaker_id: T021_000
+session_id: T021_008 speaker_id: T021_002
+wav file not found: T021_002
+session_id: T021_008 speaker_id: T021_006
+session_id: T021_008 speaker_id: T021_007
+### session_id: T021_010a ###
+session_id: T021_010a speaker_id: T021_000
+session_id: T021_010a speaker_id: T021_008
+session_id: T021_010a speaker_id: T021_009
+session_id: T021_010a speaker_id: T021_010
+wav file not found: T021_010
+session_id: T021_010a speaker_id: T021_011
+session_id: T021_010a speaker_id: T021_012
+### session_id: T021_010b ###
+session_id: T021_010b speaker_id: T021_000
+session_id: T021_010b speaker_id: T021_008
+session_id: T021_010b speaker_id: T021_009
+session_id: T021_010b speaker_id: T021_010
+wav file not found: T021_010
+session_id: T021_010b speaker_id: T021_011
+session_id: T021_010b speaker_id: T021_012
+### session_id: T021_011a ###
+session_id: T021_011a speaker_id: T021_000
+session_id: T021_011a speaker_id: T021_013
+### session_id: T021_011b ###
+session_id: T021_011b speaker_id: T021_000
+session_id: T021_011b speaker_id: T021_013
+### session_id: T021_014 ###
+session_id: T021_014 speaker_id: T021_000
+session_id: T021_014 speaker_id: T021_002
+### session_id: T021_015 ###
+session_id: T021_015 speaker_id: T021_000
+wav file not found: T021_000
+session_id: T021_015 speaker_id: T021_015
+wav file not found: T021_015
+### session_id: T021_016 ###
+session_id: T021_016 speaker_id: T021_000
+session_id: T021_016 speaker_id: T021_004
+### session_id: T022_003 ###
+session_id: T022_003 speaker_id: T022_000
+session_id: T022_003 speaker_id: T022_001
+### session_id: T022_005 ###
+session_id: T022_005 speaker_id: T022_000
+session_id: T022_005 speaker_id: T022_001
+### session_id: T022_007a ###
+session_id: T022_007a speaker_id: T022_000
+session_id: T022_007a speaker_id: T022_005
+### session_id: T022_007b ###
+session_id: T022_007b speaker_id: T022_000
+session_id: T022_007b speaker_id: T022_005
+### session_id: T022_008a ###
+session_id: T022_008a speaker_id: T022_000
+session_id: T022_008a speaker_id: T022_006
+session_id: T022_008a speaker_id: T022_007
+session_id: T022_008a speaker_id: T022_014
+wav file not found: T022_014
+session_id: T022_008a speaker_id: T022_015
+wav file not found: T022_015
+### session_id: T022_008b ###
+session_id: T022_008b speaker_id: T022_000
+session_id: T022_008b speaker_id: T022_006
+session_id: T022_008b speaker_id: T022_007
+session_id: T022_008b speaker_id: T022_014
+wav file not found: T022_014
+### session_id: T022_008c ###
+session_id: T022_008c speaker_id: T022_000
+session_id: T022_008c speaker_id: T022_006
+session_id: T022_008c speaker_id: T022_007
+session_id: T022_008c speaker_id: T022_014
+wav file not found: T022_014
+### session_id: T022_009 ###
+session_id: T022_009 speaker_id: T022_000
+session_id: T022_009 speaker_id: T022_001
+### session_id: T022_011 ###
+session_id: T022_011 speaker_id: T022_000
+session_id: T022_011 speaker_id: T022_005
+session_id: T022_011 speaker_id: T022_008
+session_id: T022_011 speaker_id: T022_010
+wav file not found: T022_010
+session_id: T022_011 speaker_id: T022_013
+wav file not found: T022_013
+### session_id: T022_012 ###
+session_id: T022_012 speaker_id: T022_000
+session_id: T022_012 speaker_id: T022_010
+wav file not found: T022_010
+### session_id: T022_013a ###
+session_id: T022_013a speaker_id: T022_000
+session_id: T022_013a speaker_id: T022_002
+session_id: T022_013a speaker_id: T022_009
+session_id: T022_013a speaker_id: T022_011
+### session_id: T022_013b ###
+session_id: T022_013b speaker_id: T022_000
+session_id: T022_013b speaker_id: T022_002
+session_id: T022_013b speaker_id: T022_009
+session_id: T022_013b speaker_id: T022_011
+### session_id: T022_013c ###
+session_id: T022_013c speaker_id: T022_000
+session_id: T022_013c speaker_id: T022_002
+session_id: T022_013c speaker_id: T022_009
+session_id: T022_013c speaker_id: T022_011
+### session_id: T022_013d ###
+session_id: T022_013d speaker_id: T022_000
+session_id: T022_013d speaker_id: T022_002
+session_id: T022_013d speaker_id: T022_009
+session_id: T022_013d speaker_id: T022_011
+### session_id: T022_015 ###
+session_id: T022_015 speaker_id: T022_000
+session_id: T022_015 speaker_id: T022_011
+session_id: T022_015 speaker_id: T022_013
+wav file not found: T022_013
+### session_id: T022_017a ###
+session_id: T022_017a speaker_id: T022_000
+session_id: T022_017a speaker_id: T022_012
+### session_id: T022_017b ###
+session_id: T022_017b speaker_id: T022_000
+session_id: T022_017b speaker_id: T022_012
+### session_id: T023_001 ###
+session_id: T023_001 speaker_id: T023_000
+session_id: T023_001 speaker_id: T023_001
+### session_id: T023_002 ###
+session_id: T023_002 speaker_id: T023_000
+session_id: T023_002 speaker_id: T023_001
+session_id: T023_002 speaker_id: T023_002
+session_id: T023_002 speaker_id: T023_003
+session_id: T023_002 speaker_id: T023_004
+wav file not found: T023_004
+### session_id: T023_004 ###
+session_id: T023_004 speaker_id: T023_000
+session_id: T023_004 speaker_id: T023_001
+session_id: T023_004 speaker_id: T023_007
+session_id: T023_004 speaker_id: T023_008
+session_id: T023_004 speaker_id: T023_009
+session_id: T023_004 speaker_id: T023_010
+### session_id: T023_005 ###
+session_id: T023_005 speaker_id: T023_000
+session_id: T023_005 speaker_id: T023_005
+session_id: T023_005 speaker_id: T023_006
+### session_id: T023_007 ###
+session_id: T023_007 speaker_id: T023_000
+session_id: T023_007 speaker_id: T023_011
+### session_id: T023_008a ###
+session_id: T023_008a speaker_id: T023_000
+session_id: T023_008a speaker_id: T023_001
+session_id: T023_008a speaker_id: T023_012
+session_id: T023_008a speaker_id: T023_013
+### session_id: T023_008b ###
+session_id: T023_008b speaker_id: T023_000
+session_id: T023_008b speaker_id: T023_001
+session_id: T023_008b speaker_id: T023_012
+session_id: T023_008b speaker_id: T023_013
+### session_id: T023_009 ###
+session_id: T023_009 speaker_id: T023_000
+session_id: T023_009 speaker_id: T023_014
+session_id: T023_009 speaker_id: T023_015
+session_id: T023_009 speaker_id: T023_016
+session_id: T023_009 speaker_id: T023_017
+session_id: T023_009 speaker_id: T023_023
+wav file not found: T023_023
+### session_id: T023_011 ###
+session_id: T023_011 speaker_id: T023_000
+session_id: T023_011 speaker_id: T023_001
+session_id: T023_011 speaker_id: T023_002
+session_id: T023_011 speaker_id: T023_018
+### session_id: T023_012 ###
+session_id: T023_012 speaker_id: T023_000
+session_id: T023_012 speaker_id: T023_001
+session_id: T023_012 speaker_id: T023_018
+### session_id: T023_013 ###
+session_id: T023_013 speaker_id: T023_000
+session_id: T023_013 speaker_id: T023_001
+### session_id: T023_017 ###
+session_id: T023_017 speaker_id: T023_000
+session_id: T023_017 speaker_id: T023_020
+### session_id: T023_020 ###
+session_id: T023_020 speaker_id: T023_000
+session_id: T023_020 speaker_id: T023_022
+session_id: T023_020 speaker_id: T023_024
+wav file not found: T023_024
+### session_id: T024_001 ###
+session_id: T024_001 speaker_id: T024_000
+session_id: T024_001 speaker_id: T024_002
+session_id: T024_001 speaker_id: T024_003
+### session_id: T024_003a ###
+session_id: T024_003a speaker_id: T024_000
+session_id: T024_003a speaker_id: T024_001
+session_id: T024_003a speaker_id: T024_002
+session_id: T024_003a speaker_id: T024_004
+wav file not found: T024_004
+session_id: T024_003a speaker_id: T024_005
+session_id: T024_003a speaker_id: T024_006
+session_id: T024_003a speaker_id: T024_007
+session_id: T024_003a speaker_id: T024_018
+wav file not found: T024_018
+### session_id: T024_003b ###
+session_id: T024_003b speaker_id: T024_000
+session_id: T024_003b speaker_id: T024_001
+session_id: T024_003b speaker_id: T024_002
+session_id: T024_003b speaker_id: T024_004
+wav file not found: T024_004
+session_id: T024_003b speaker_id: T024_005
+session_id: T024_003b speaker_id: T024_006
+session_id: T024_003b speaker_id: T024_007
+session_id: T024_003b speaker_id: T024_018
+wav file not found: T024_018
+### session_id: T024_004 ###
+session_id: T024_004 speaker_id: T024_000
+session_id: T024_004 speaker_id: T024_001
+session_id: T024_004 speaker_id: T024_002
+session_id: T024_004 speaker_id: T024_004
+wav file not found: T024_004
+session_id: T024_004 speaker_id: T024_005
+### session_id: T024_005 ###
+session_id: T024_005 speaker_id: T024_000
+session_id: T024_005 speaker_id: T024_001
+session_id: T024_005 speaker_id: T024_002
+session_id: T024_005 speaker_id: T024_005
+### session_id: T024_006 ###
+session_id: T024_006 speaker_id: T024_000
+session_id: T024_006 speaker_id: T024_002
+session_id: T024_006 speaker_id: T024_003
+session_id: T024_006 speaker_id: T024_005
+wav file not found: T024_005
+### session_id: T024_007 ###
+session_id: T024_007 speaker_id: T024_000
+session_id: T024_007 speaker_id: T024_002
+session_id: T024_007 speaker_id: T024_003
+session_id: T024_007 speaker_id: T024_005
+### session_id: T024_008 ###
+session_id: T024_008 speaker_id: T024_000
+session_id: T024_008 speaker_id: T024_008
+session_id: T024_008 speaker_id: T024_019
+wav file not found: T024_019
+### session_id: T024_009 ###
+session_id: T024_009 speaker_id: T024_000
+session_id: T024_009 speaker_id: T024_009
+session_id: T024_009 speaker_id: T024_010
+wav file not found: T024_010
+session_id: T024_009 speaker_id: T024_011
+session_id: T024_009 speaker_id: T024_012
+session_id: T024_009 speaker_id: T024_013
+wav file not found: T024_013
+session_id: T024_009 speaker_id: T024_014
+session_id: T024_009 speaker_id: T024_015
+### session_id: T024_010 ###
+session_id: T024_010 speaker_id: T024_000
+session_id: T024_010 speaker_id: T024_010
+session_id: T024_010 speaker_id: T024_016
+session_id: T024_010 speaker_id: T024_017
+session_id: T024_010 speaker_id: T024_020
+wav file not found: T024_020
+session_id: T024_010 speaker_id: T024_021
+wav file not found: T024_021
+### session_id: W001_001a ###
+Warning: LUW and SUW are not matched: カンケー vs. ◇ at ('IC01_葉山', 705.765, 710.439)
+session_id: W001_001a speaker_id: W001_001
+session_id: W001_001a speaker_id: W001_002
+session_id: W001_001a speaker_id: W001_003
+session_id: W001_001a speaker_id: W001_004
+session_id: W001_001a speaker_id: W001_005
+session_id: W001_001a speaker_id: W001_006
+wav file not found: W001_006
+session_id: W001_001a speaker_id: W001_007
+session_id: W001_001a speaker_id: W001_008
+wav file not found: W001_008
+### session_id: W001_001b ###
+session_id: W001_001b speaker_id: W001_001
+session_id: W001_001b speaker_id: W001_002
+text not found: W001_002 at W001_001b
+session_id: W001_001b speaker_id: W001_003
+session_id: W001_001b speaker_id: W001_004
+session_id: W001_001b speaker_id: W001_005
+session_id: W001_001b speaker_id: W001_006
+wav file not found: W001_006
+session_id: W001_001b speaker_id: W001_007
+session_id: W001_001b speaker_id: W001_008
+wav file not found: W001_008
+### session_id: W001_001c ###
+session_id: W001_001c speaker_id: W001_001
+session_id: W001_001c speaker_id: W001_002
+session_id: W001_001c speaker_id: W001_003
+session_id: W001_001c speaker_id: W001_004
+session_id: W001_001c speaker_id: W001_005
+session_id: W001_001c speaker_id: W001_006
+wav file not found: W001_006
+session_id: W001_001c speaker_id: W001_007
+session_id: W001_001c speaker_id: W001_008
+wav file not found: W001_008
+### session_id: W001_002 ###
+session_id: W001_002 speaker_id: W001_001
+session_id: W001_002 speaker_id: W001_005
+session_id: W001_002 speaker_id: W001_008
+wav file not found: W001_008
+session_id: W001_002 speaker_id: W001_009
+session_id: W001_002 speaker_id: W001_010
+session_id: W001_002 speaker_id: W001_011
+session_id: W001_002 speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_002 speaker_id: W001_013
+session_id: W001_002 speaker_id: W001_014
+### session_id: W001_003a ###
+session_id: W001_003a speaker_id: W001_001
+text not found: W001_001 at W001_003a
+session_id: W001_003a speaker_id: W001_005
+session_id: W001_003a speaker_id: W001_008
+wav file not found: W001_008
+session_id: W001_003a speaker_id: W001_009
+text not found: W001_009 at W001_003a
+session_id: W001_003a speaker_id: W001_010
+text not found: W001_010 at W001_003a
+session_id: W001_003a speaker_id: W001_011
+wav file not found: W001_011
+session_id: W001_003a speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_003a speaker_id: W001_013
+wav file not found: W001_013
+session_id: W001_003a speaker_id: W001_015
+text not found: W001_015 at W001_003a
+session_id: W001_003a speaker_id: W001_016
+text not found: W001_016 at W001_003a
+session_id: W001_003a speaker_id: W001_017
+session_id: W001_003a speaker_id: W001_018
+wav file not found: W001_018
+session_id: W001_003a speaker_id: W001_019
+text not found: W001_019 at W001_003a
+### session_id: W001_003b ###
+session_id: W001_003b speaker_id: W001_001
+session_id: W001_003b speaker_id: W001_005
+session_id: W001_003b speaker_id: W001_008
+wav file not found: W001_008
+session_id: W001_003b speaker_id: W001_009
+session_id: W001_003b speaker_id: W001_010
+session_id: W001_003b speaker_id: W001_011
+wav file not found: W001_011
+session_id: W001_003b speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_003b speaker_id: W001_013
+wav file not found: W001_013
+session_id: W001_003b speaker_id: W001_015
+text not found: W001_015 at W001_003b
+session_id: W001_003b speaker_id: W001_016
+text not found: W001_016 at W001_003b
+session_id: W001_003b speaker_id: W001_017
+session_id: W001_003b speaker_id: W001_018
+wav file not found: W001_018
+session_id: W001_003b speaker_id: W001_019
+### session_id: W001_003c ###
+session_id: W001_003c speaker_id: W001_001
+session_id: W001_003c speaker_id: W001_005
+session_id: W001_003c speaker_id: W001_007
+wav file not found: W001_007
+session_id: W001_003c speaker_id: W001_008
+wav file not found: W001_008
+session_id: W001_003c speaker_id: W001_009
+text not found: W001_009 at W001_003c
+session_id: W001_003c speaker_id: W001_010
+session_id: W001_003c speaker_id: W001_011
+wav file not found: W001_011
+session_id: W001_003c speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_003c speaker_id: W001_013
+wav file not found: W001_013
+session_id: W001_003c speaker_id: W001_015
+text not found: W001_015 at W001_003c
+session_id: W001_003c speaker_id: W001_016
+session_id: W001_003c speaker_id: W001_017
+session_id: W001_003c speaker_id: W001_018
+wav file not found: W001_018
+session_id: W001_003c speaker_id: W001_019
+text not found: W001_019 at W001_003c
+### session_id: W001_003d ###
+session_id: W001_003d speaker_id: W001_001
+session_id: W001_003d speaker_id: W001_005
+session_id: W001_003d speaker_id: W001_007
+wav file not found: W001_007
+session_id: W001_003d speaker_id: W001_008
+wav file not found: W001_008
+session_id: W001_003d speaker_id: W001_009
+session_id: W001_003d speaker_id: W001_010
+session_id: W001_003d speaker_id: W001_011
+wav file not found: W001_011
+session_id: W001_003d speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_003d speaker_id: W001_013
+wav file not found: W001_013
+session_id: W001_003d speaker_id: W001_015
+session_id: W001_003d speaker_id: W001_016
+session_id: W001_003d speaker_id: W001_017
+session_id: W001_003d speaker_id: W001_018
+wav file not found: W001_018
+session_id: W001_003d speaker_id: W001_019
+text not found: W001_019 at W001_003d
+### session_id: W001_004 ###
+session_id: W001_004 speaker_id: W001_001
+session_id: W001_004 speaker_id: W001_005
+session_id: W001_004 speaker_id: W001_007
+wav file not found: W001_007
+session_id: W001_004 speaker_id: W001_009
+session_id: W001_004 speaker_id: W001_010
+session_id: W001_004 speaker_id: W001_012
+wav file not found: W001_012
+session_id: W001_004 speaker_id: W001_013
+wav file not found: W001_013
+session_id: W001_004 speaker_id: W001_015
+wav file not found: W001_015
+session_id: W001_004 speaker_id: W001_016
+session_id: W001_004 speaker_id: W001_017
+session_id: W001_004 speaker_id: W001_018
+wav file not found: W001_018
+session_id: W001_004 speaker_id: W001_019
+wav file not found: W001_019
+### session_id: W002_001 ###
+session_id: W002_001 speaker_id: W002_001
+session_id: W002_001 speaker_id: W002_002
+session_id: W002_001 speaker_id: W002_003
+session_id: W002_001 speaker_id: W002_004
+session_id: W002_001 speaker_id: W002_005
+session_id: W002_001 speaker_id: W002_006
+session_id: W002_001 speaker_id: W002_007
+session_id: W002_001 speaker_id: W002_008
+session_id: W002_001 speaker_id: W002_009
+session_id: W002_001 speaker_id: W002_010
+session_id: W002_001 speaker_id: W002_011
+session_id: W002_001 speaker_id: W002_012
+session_id: W002_001 speaker_id: W002_013
+session_id: W002_001 speaker_id: W002_014
+### session_id: W003_001 ###
+session_id: W003_001 speaker_id: W003_001
+session_id: W003_001 speaker_id: W003_002
+session_id: W003_001 speaker_id: W003_003
+session_id: W003_001 speaker_id: W003_004
+wav file not found: W003_004
+session_id: W003_001 speaker_id: W003_005
+wav file not found: W003_005
+### session_id: W003_002 ###
+session_id: W003_002 speaker_id: W003_002
+session_id: W003_002 speaker_id: W003_003
+### session_id: W004_001a ###
+session_id: W004_001a speaker_id: W004_001
+session_id: W004_001a speaker_id: W004_002
+session_id: W004_001a speaker_id: W004_003
+session_id: W004_001a speaker_id: W004_004
+session_id: W004_001a speaker_id: W004_005
+session_id: W004_001a speaker_id: W004_006
+### session_id: W004_001b ###
+session_id: W004_001b speaker_id: W004_001
+session_id: W004_001b speaker_id: W004_002
+session_id: W004_001b speaker_id: W004_003
+session_id: W004_001b speaker_id: W004_004
+session_id: W004_001b speaker_id: W004_005
+session_id: W004_001b speaker_id: W004_006
+### session_id: W004_002 ###
+session_id: W004_002 speaker_id: W004_001
+session_id: W004_002 speaker_id: W004_002
+session_id: W004_002 speaker_id: W004_003
+session_id: W004_002 speaker_id: W004_004
+session_id: W004_002 speaker_id: W004_005
+session_id: W004_002 speaker_id: W004_006
+### session_id: W004_003 ###
+session_id: W004_003 speaker_id: W004_001
+session_id: W004_003 speaker_id: W004_002
+session_id: W004_003 speaker_id: W004_003
+session_id: W004_003 speaker_id: W004_004
+session_id: W004_003 speaker_id: W004_005
+session_id: W004_003 speaker_id: W004_006
+### session_id: W004_004a ###
+session_id: W004_004a speaker_id: W004_001
+session_id: W004_004a speaker_id: W004_002
+session_id: W004_004a speaker_id: W004_003
+session_id: W004_004a speaker_id: W004_004
+session_id: W004_004a speaker_id: W004_005
+session_id: W004_004a speaker_id: W004_006
+session_id: W004_004a speaker_id: W004_007
+wav file not found: W004_007
+### session_id: W004_004b ###
+session_id: W004_004b speaker_id: W004_001
+session_id: W004_004b speaker_id: W004_002
+session_id: W004_004b speaker_id: W004_003
+session_id: W004_004b speaker_id: W004_004
+session_id: W004_004b speaker_id: W004_005
+session_id: W004_004b speaker_id: W004_006
+session_id: W004_004b speaker_id: W004_007
+wav file not found: W004_007
+### session_id: W004_005a ###
+session_id: W004_005a speaker_id: W004_001
+session_id: W004_005a speaker_id: W004_002
+session_id: W004_005a speaker_id: W004_003
+session_id: W004_005a speaker_id: W004_004
+session_id: W004_005a speaker_id: W004_005
+session_id: W004_005a speaker_id: W004_006
+### session_id: W004_005b ###
+session_id: W004_005b speaker_id: W004_001
+session_id: W004_005b speaker_id: W004_002
+session_id: W004_005b speaker_id: W004_003
+session_id: W004_005b speaker_id: W004_004
+session_id: W004_005b speaker_id: W004_005
+session_id: W004_005b speaker_id: W004_006
+### session_id: W004_006 ###
+session_id: W004_006 speaker_id: W004_001
+session_id: W004_006 speaker_id: W004_002
+session_id: W004_006 speaker_id: W004_003
+session_id: W004_006 speaker_id: W004_004
+session_id: W004_006 speaker_id: W004_005
+session_id: W004_006 speaker_id: W004_006
+### session_id: W004_007a ###
+session_id: W004_007a speaker_id: W004_001
+session_id: W004_007a speaker_id: W004_002
+session_id: W004_007a speaker_id: W004_003
+text not found: W004_003 at W004_007a
+session_id: W004_007a speaker_id: W004_004
+session_id: W004_007a speaker_id: W004_005
+session_id: W004_007a speaker_id: W004_006
+### session_id: W004_007b ###
+session_id: W004_007b speaker_id: W004_001
+session_id: W004_007b speaker_id: W004_002
+session_id: W004_007b speaker_id: W004_003
+session_id: W004_007b speaker_id: W004_004
+session_id: W004_007b speaker_id: W004_005
+session_id: W004_007b speaker_id: W004_006
+### session_id: W004_008a ###
+session_id: W004_008a speaker_id: W004_001
+session_id: W004_008a speaker_id: W004_002
+session_id: W004_008a speaker_id: W004_003
+session_id: W004_008a speaker_id: W004_004
+session_id: W004_008a speaker_id: W004_005
+session_id: W004_008a speaker_id: W004_006
+### session_id: W004_008b ###
+session_id: W004_008b speaker_id: W004_001
+session_id: W004_008b speaker_id: W004_002
+session_id: W004_008b speaker_id: W004_003
+session_id: W004_008b speaker_id: W004_004
+session_id: W004_008b speaker_id: W004_005
+session_id: W004_008b speaker_id: W004_006
+### session_id: W004_009 ###
+session_id: W004_009 speaker_id: W004_001
+session_id: W004_009 speaker_id: W004_002
+session_id: W004_009 speaker_id: W004_003
+session_id: W004_009 speaker_id: W004_004
+session_id: W004_009 speaker_id: W004_005
+session_id: W004_009 speaker_id: W004_006
+### session_id: W004_010a ###
+session_id: W004_010a speaker_id: W004_001
+session_id: W004_010a speaker_id: W004_002
+session_id: W004_010a speaker_id: W004_003
+text not found: W004_003 at W004_010a
+session_id: W004_010a speaker_id: W004_004
+text not found: W004_004 at W004_010a
+session_id: W004_010a speaker_id: W004_005
+session_id: W004_010a speaker_id: W004_006
+### session_id: W004_010b ###
+session_id: W004_010b speaker_id: W004_001
+session_id: W004_010b speaker_id: W004_002
+session_id: W004_010b speaker_id: W004_003
+session_id: W004_010b speaker_id: W004_004
+session_id: W004_010b speaker_id: W004_005
+session_id: W004_010b speaker_id: W004_006
+### session_id: W005_001 ###
+session_id: W005_001 speaker_id: W005_001
+session_id: W005_001 speaker_id: W005_002
+session_id: W005_001 speaker_id: W005_003
+session_id: W005_001 speaker_id: W005_004
+session_id: W005_001 speaker_id: W005_005
+session_id: W005_001 speaker_id: W005_006
+session_id: W005_001 speaker_id: W005_007
+session_id: W005_001 speaker_id: W005_008
+session_id: W005_001 speaker_id: W005_009
+### session_id: W006_001 ###
+session_id: W006_001 speaker_id: W006_001
+session_id: W006_001 speaker_id: W006_002
+wav file not found: W006_002
+session_id: W006_001 speaker_id: W006_003
+wav file not found: W006_003
+session_id: W006_001 speaker_id: W006_004
+### session_id: W007_002 ###
+session_id: W007_002 speaker_id: W007_003
+session_id: W007_002 speaker_id: W007_007
+### session_id: W007_003 ###
+session_id: W007_003 speaker_id: W007_003
+session_id: W007_003 speaker_id: W007_006
+session_id: W007_003 speaker_id: W007_007
+### session_id: W007_004a ###
+session_id: W007_004a speaker_id: W007_004
+session_id: W007_004a speaker_id: W007_005
+session_id: W007_004a speaker_id: W007_007
+### session_id: W007_004b ###
+session_id: W007_004b speaker_id: W007_004
+session_id: W007_004b speaker_id: W007_005
+session_id: W007_004b speaker_id: W007_007
+### session_id: W008_001a ###
+session_id: W008_001a speaker_id: W008_001
+session_id: W008_001a speaker_id: W008_002
+session_id: W008_001a speaker_id: W008_003
+session_id: W008_001a speaker_id: W008_004
+session_id: W008_001a speaker_id: W008_005
+### session_id: W008_001b ###
+session_id: W008_001b speaker_id: W008_001
+session_id: W008_001b speaker_id: W008_002
+session_id: W008_001b speaker_id: W008_003
+session_id: W008_001b speaker_id: W008_004
+session_id: W008_001b speaker_id: W008_005
+### session_id: W008_001c ###
+session_id: W008_001c speaker_id: W008_001
+session_id: W008_001c speaker_id: W008_002
+session_id: W008_001c speaker_id: W008_003
+session_id: W008_001c speaker_id: W008_004
+session_id: W008_001c speaker_id: W008_005
+### session_id: W009_001 ###
+session_id: W009_001 speaker_id: W009_002
+session_id: W009_001 speaker_id: W009_003
+session_id: W009_001 speaker_id: W009_004
+session_id: W009_001 speaker_id: W009_005
+wav file not found: W009_005
+session_id: W009_001 speaker_id: W009_006
+wav file not found: W009_006
+session_id: W009_001 speaker_id: W009_007
+### session_id: W009_002a ###
+session_id: W009_002a speaker_id: W009_001
+session_id: W009_002a speaker_id: W009_007
+### session_id: W009_002b ###
+session_id: W009_002b speaker_id: W009_001
+session_id: W009_002b speaker_id: W009_007
+### session_id: W010_001a ###
+session_id: W010_001a speaker_id: W010_001
+session_id: W010_001a speaker_id: W010_002
+### session_id: W010_001b ###
+session_id: W010_001b speaker_id: W010_001
+session_id: W010_001b speaker_id: W010_002
+### session_id: W011_001a ###
+session_id: W011_001a speaker_id: W011_001
+session_id: W011_001a speaker_id: W011_002
+wav file not found: W011_002
+session_id: W011_001a speaker_id: W011_003
+wav file not found: W011_003
+### session_id: W011_001b ###
+session_id: W011_001b speaker_id: W011_001
+session_id: W011_001b speaker_id: W011_002
+wav file not found: W011_002
+session_id: W011_001b speaker_id: W011_003
+wav file not found: W011_003
