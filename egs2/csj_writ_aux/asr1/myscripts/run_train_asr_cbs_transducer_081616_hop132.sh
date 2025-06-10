@@ -14,6 +14,7 @@ asr_tag=train_asr_cbs_transducer_081616_hop132
 
 inference_config=myconf/decode_cbs_transducer.yaml
 inference_asr_model=valid.cer_transducer.ave_10best.pth
+hf_repo=fujie/espnet_asr_csj_writ_aux_cbs_transducer_081616_hop132
 
 lm_config=conf/train_lm.yaml
 use_lm=false
@@ -47,6 +48,7 @@ wandb_id="csj_alt_${asr_tag}"
     --nj 8 \
     --inference_nj 8 \
     --asr_args "--use_wandb ${use_wandb} --wandb_project ${wandb_project} --wandb_id ${wandb_id} " \
+    --hf_repo "${hf_repo}"                            \
     "$@"
 
 # --asr_args "--use_wandb true " \ 
